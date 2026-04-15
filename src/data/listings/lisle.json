@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "morris-engineering-inc-lisle",
+    "name": "Morris Engineering, Inc.",
+    "city": "lisle",
+    "state": "IL",
+    "address": "515 Warrenville Rd, Lisle, IL 60532",
+    "lat": 41.8080168,
+    "lng": -88.0595081,
+    "phone": "1776286718",
+    "website": "https://ecivil.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveyor services in Lisle, IL.",
+    "certifications": [],
+    "services": [
+      "land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:11",
+    "sentiment": null
+  }
+]

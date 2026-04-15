@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "cmt-surveying-consulting-damascus",
+    "name": "CMT Surveying & Consulting",
+    "city": "damascus",
+    "state": "OR",
+    "address": "20330 SE Highway 212, Damascus, OR 97089",
+    "lat": 45.4175356,
+    "lng": -122.4534349,
+    "phone": "",
+    "website": "http://www.cmtsc.net",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying and consulting services in the Damascus area.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:47",
+    "sentiment": null
+  }
+]

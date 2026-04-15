@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "high-prairie-survey-company-kiowa",
+    "name": "High Prairie Survey Company",
+    "city": "kiowa",
+    "state": "CO",
+    "address": "",
+    "lat": 38.4411214,
+    "lng": -102.7628476,
+    "phone": "303.621.8672",
+    "website": "https://www.highprairiesurvey.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying services in central Front Range including Castle Rock, Franktown, Parker, Elizabeth, Kiowa, Limon, Burlington across multiple counties; offers real estate, mortgage, drainage certificates, fence construction, and virtually any land survey.",
+    "certifications": [],
+    "services": [
+      "real estate surveys",
+      "drainage certificates",
+      "fence construction surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:48",
+    "sentiment": null
+  }
+]

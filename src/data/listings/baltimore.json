@@ -1,0 +1,91 @@
+[
+  {
+    "slug": "duley-and-associates-inc-baltimore",
+    "name": "Duley and Associates, Inc.",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "",
+    "lat": 39.2908816,
+    "lng": -76.610759,
+    "phone": "1764953761",
+    "website": "https://www.marylandsurveyors.com",
+    "email": "chevas@duley.biz",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides fast, high-quality surveying services at reasonable prices to Maryland and Washington D.C., specializing in rush surveys.",
+    "certifications": [],
+    "services": [
+      "location drawings",
+      "boundary surveys",
+      "topographic surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:28",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional",
+        "prompt",
+        "friendly",
+        "courteous",
+        "detailed explanation",
+        "communication"
+      ],
+      "highlights": [
+        {
+          "text": "The surveyors were prompt and very professional.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I could not have asked for a more friendly and courteous experience.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I highly recommend this company!",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Duley and Associates, Inc. has an excellent reputation with consistently positive reviews praising their professional service, punctuality, clear communication, and exceptional customer courtesy."
+    }
+  },
+  {
+    "slug": "snider-associates-baltimore",
+    "name": "Snider & Associates",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "",
+    "lat": 39.2908816,
+    "lng": -76.610759,
+    "phone": "1936232559",
+    "website": "https://exactaland.com/snider-associates/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Over 50 years of experience in residential and commercial land surveying using latest technology.",
+    "certifications": [],
+    "services": [
+      "residential surveying",
+      "commercial surveying",
+      "new construction surveys",
+      "building construction surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:28",
+    "sentiment": null
+  }
+]

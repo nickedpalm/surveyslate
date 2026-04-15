@@ -1,0 +1,183 @@
+[
+  {
+    "slug": "cam-surveying-louisville",
+    "name": "CAM Surveying",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "",
+    "lat": 38.2542376,
+    "lng": -85.759407,
+    "phone": "(859) 230-4009",
+    "website": "https://camsurveying.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Over 50 years combined experience in Central Kentucky, offering commercial, residential, lot, farm surveys, land title surveys, elevation certificates, and planning & zoning consulting.",
+    "certifications": [],
+    "services": [
+      "Commercial Property Surveys",
+      "Residential Property Surveys",
+      "Land Title Surveys",
+      "Farm Surveys",
+      "Elevation Certificates"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:22",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional",
+        "exceeded expectations",
+        "customer service",
+        "quick",
+        "accommodating",
+        "reliable"
+      ],
+      "highlights": [
+        {
+          "text": "they absolutely exceeded my expectations and I couldn't recommend these guys more!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "demonstrated above and beyond customer service",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Very professional and quick. They accommodated the fact my wife and I work nights.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "CAM Surveying receives overwhelmingly positive sentiment with reviewers praising their professionalism, exceptional customer service, and willingness to exceed expectations both in service delivery and customer support."
+    }
+  },
+  {
+    "slug": "cardinal-surveying-louisville",
+    "name": "Cardinal Surveying",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "",
+    "lat": 38.2542376,
+    "lng": -85.759407,
+    "phone": "2545352419",
+    "website": "https://www.cardinalsurveyingservices.com",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "35 years experience providing quality surveying including boundary surveys, site plans for residential and commercial, and topographic surveys, primarily in Jefferson, Oldham, Bullitt Counties.",
+    "certifications": [],
+    "services": [
+      "boundary surveys",
+      "site plans",
+      "topographic surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:22",
+    "sentiment": null
+  },
+  {
+    "slug": "hester-precision-surveys-louisville",
+    "name": "Hester Precision Surveys",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "",
+    "lat": 38.2542376,
+    "lng": -85.759407,
+    "phone": "",
+    "website": "https://www.hestersurveys.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Licensed land surveyor in Kentucky and Tennessee with nearly 19 years experience, providing professional surveying and geomatics for commercial, industrial, residential, and rural properties.",
+    "certifications": [],
+    "services": [
+      "ALTA/NSPS Land Title Surveys",
+      "Topo & Utility Mapping",
+      "Condominium Plats",
+      "Construction Staking",
+      "Boundary Retracement"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:22",
+    "sentiment": null
+  },
+  {
+    "slug": "millman-national-land-services-louisville",
+    "name": "Millman National Land Services",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "",
+    "lat": 38.2542376,
+    "lng": -85.759407,
+    "phone": "800-520-1010",
+    "website": "https://millmanland.com",
+    "email": "tech@twiz.io",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Nationwide full-service provider specializing in commercial land surveying across Kentucky, including boundary surveys, ALTA/NSPS Land Title Surveys, topographic mapping, and environmental assessments.",
+    "certifications": [],
+    "services": [
+      "boundary surveys",
+      "ALTA/NSPS Land Title Surveys",
+      "topographic mapping",
+      "environmental assessments"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:22",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "friendly",
+        "can-do attitude",
+        "enthusiastic",
+        "reliable",
+        "professional",
+        "peace of mind"
+      ],
+      "highlights": [
+        {
+          "text": "They're friendly, with a can-do, will-do attitude. They're always trying to make sure we're a satisfied customer.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "There is no confusion. They're available and enthusiastic about the work they do. That is peace of mind for us.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We were thoroughly impressed with Millman during the Burger King transaction and will be sure to keep Millman in mind for future transactions.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Millman National Land Services has overwhelmingly positive sentiment with reviewers consistently praising their friendly demeanor, can-do attitude, professionalism, and reliability across major transactions."
+    }
+  }
+]

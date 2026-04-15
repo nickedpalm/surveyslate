@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "wayne-m-dietz-enterprises-llc-orleans",
+    "name": "Wayne M. Dietz Enterprises, LLC",
+    "city": "orleans",
+    "state": "NE",
+    "address": "500 E. Walnut, PO Box 473, Orleans, NE 68966",
+    "lat": 40.1290467,
+    "lng": -99.4552153,
+    "phone": "402-435-3080",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying services provided by licensed surveyor Wayne Dietz (#441).",
+    "certifications": [],
+    "services": [
+      "Land Surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:36",
+    "sentiment": null
+  }
+]

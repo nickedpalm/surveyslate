@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "skysurv-st-louis-park",
+    "name": "SkySurv",
+    "city": "st-louis-park",
+    "state": "MN",
+    "address": "",
+    "lat": 44.9475726,
+    "lng": -93.3569023,
+    "phone": "(612) 419-9583",
+    "website": "https://www.skysurv.us",
+    "email": "info@skysurv.us",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Licensed property and land surveyor providing residential and commercial surveying services in Minneapolis-St. Paul and most of Minnesota, including construction, additions, fences, retaining walls, wind, solar, pipeline, transmission line, and public utilities surveys.",
+    "certifications": [],
+    "services": [
+      "Residential Land Surveying",
+      "Commercial Construction Surveys",
+      "Property Surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:14",
+    "sentiment": null
+  }
+]

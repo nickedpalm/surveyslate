@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "demarr-engineering-loudoun-county",
+    "name": "DeMarr Engineering",
+    "city": "loudoun-county",
+    "state": "VA",
+    "address": "",
+    "lat": 39.0984586,
+    "lng": -77.6705008,
+    "phone": "1776266349",
+    "website": "https://www.demarrengineering.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Civil engineering and land surveying firm serving Loudoun County, VA.",
+    "certifications": [],
+    "services": [
+      "land surveying",
+      "civil engineering"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:14",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "client care",
+        "knowledgeable",
+        "responsive",
+        "prompt",
+        "professional",
+        "attention to detail"
+      ],
+      "highlights": [
+        {
+          "text": "I cannot recommend them highly enough.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Highly focused on client care and extremely knowledgeable with both site planning and the construction side.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "5 Stars to DeMarr Engineering! Simply a pleasure to work with.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "No cost overruns. Met tight deadline in line with their predictions.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "DeMarr Engineering has an exceptionally positive reputation with clients consistently praising their expertise, responsiveness, attention to detail, and reliable project delivery."
+    }
+  }
+]

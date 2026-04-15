@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "luco-surveying-crystal-lake",
+    "name": "Luco Surveying",
+    "city": "crystal-lake",
+    "state": "IL",
+    "address": "54 Lou St, Crystal Lake, IL 60014",
+    "lat": 42.2249422,
+    "lng": -88.3184319,
+    "phone": "1712255656",
+    "website": "https://www.lucosurveying.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveyor services in Crystal Lake, IL.",
+    "certifications": [],
+    "services": [
+      "land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:11",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "accurate",
+        "integrity",
+        "experienced",
+        "precision",
+        "communication",
+        "dependable"
+      ],
+      "highlights": [
+        {
+          "text": "Grounded in Care. Measured with Integrity.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "combine experienced field crews, skilled drafting, and modern technology",
+          "sentiment": "positive"
+        },
+        {
+          "text": "focus on communication, precision, and dependable service from start to finish",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Luco Surveying projects a highly professional and trustworthy reputation, emphasizing integrity, precision, and dependable customer service with modern technology."
+    }
+  }
+]

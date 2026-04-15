@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "howell-west-chester",
+    "name": "Howell",
+    "city": "west-chester",
+    "state": "PA",
+    "address": "1250 Wrights Lane, West Chester, PA 19380",
+    "lat": 39.9873741,
+    "lng": -75.5749499,
+    "phone": "610 918 9002",
+    "website": "https://knowhowell.com/surveying-services",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Specializes in land surveying for residential and commercial projects in Chester County, PA, providing precise information for homeowners, developers, architects, engineers, and contractors.[8]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:19",
+    "sentiment": null
+  }
+]

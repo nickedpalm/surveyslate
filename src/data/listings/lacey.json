@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "skillings-lacey",
+    "name": "Skillings",
+    "city": "lacey",
+    "state": "WA",
+    "address": "",
+    "lat": 47.0263876,
+    "lng": -122.8072257,
+    "phone": "2017032408",
+    "website": "https://www.skillings.com/what-we-do/survey/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Veteran-owned firm offering land surveying services throughout Washington State from Olympia/Lacey area, serving Thurston, Pierce, Mason, and Lewis Counties.",
+    "certifications": [],
+    "services": [
+      "Land Surveying",
+      "Mapping for Roadways and Development",
+      "Construction Surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:06",
+    "sentiment": null
+  }
+]

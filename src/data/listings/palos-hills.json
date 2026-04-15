@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "landmark-engineering-llc-palos-hills",
+    "name": "Landmark Engineering LLC",
+    "city": "palos-hills",
+    "state": "IL",
+    "address": "7808 W 103rd St, Palos Hills, IL 60465",
+    "lat": 41.6966397,
+    "lng": -87.816924,
+    "phone": "1680733730",
+    "website": "http://landmark80.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveyor services in Palos Hills, IL.",
+    "certifications": [],
+    "services": [
+      "land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:11",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "henderson-land-surveying-morgantown",
+    "name": "Henderson Land Surveying",
+    "city": "morgantown",
+    "state": "KY",
+    "address": "209 S Main St, Morgantown, KY 42261",
+    "lat": 37.2241787,
+    "lng": -86.6848831,
+    "phone": "(270) 526-3825",
+    "website": "https://hendersonls.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional land surveying for projects from small lots to large farms, serving South Central Kentucky counties including Butler, Warren, Grayson, Edmonson, Logan, Ohio, Muhlenberg, Hopkins, Christian, McLean, Breckinridge, and Todd.",
+    "certifications": [],
+    "services": [
+      "boundary surveys",
+      "farm surveys",
+      "subdivision surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:22",
+    "sentiment": null
+  }
+]

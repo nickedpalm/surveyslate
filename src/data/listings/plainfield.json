@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "banning-engineering-plainfield",
+    "name": "Banning Engineering",
+    "city": "plainfield",
+    "state": "IN",
+    "address": "853 Columbia Rd., Ste. 101, Plainfield, IN 46168",
+    "lat": 39.703872,
+    "lng": -86.399477,
+    "phone": "(317) 707-3700",
+    "website": "https://www.banning-eng.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Engineering firm providing land surveying services in Indiana.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:21",
+    "sentiment": null
+  }
+]

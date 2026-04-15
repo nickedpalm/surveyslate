@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "aspen-land-surveying-gig-harbor",
+    "name": "Aspen Land Surveying",
+    "city": "gig-harbor",
+    "state": "WA",
+    "address": "",
+    "lat": 47.3259697,
+    "lng": -122.5878659,
+    "phone": "253-303-0270",
+    "website": "https://www.aspenland.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Premier land surveying company since 1995 serving Gig Harbor area for homes, businesses, and construction sites.",
+    "certifications": [],
+    "services": [
+      "Land Surveying for Homes",
+      "Land Surveying for Businesses",
+      "Land Surveying for Construction Sites"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:06",
+    "sentiment": null
+  }
+]

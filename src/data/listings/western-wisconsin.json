@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "brandon-king-land-surveying-western-wisconsin",
+    "name": "Brandon King Land Surveying",
+    "city": "western-wisconsin",
+    "state": "WI",
+    "address": "",
+    "lat": 44.5291982,
+    "lng": -88.0593286,
+    "phone": "(715) 639-5243",
+    "website": "https://www.bklandsurveying.com",
+    "email": "bklsllc@gmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Family-owned land surveying firm serving western Wisconsin and eastern Minnesota since 2008, specializing in land surveying, land use plans, elevation surveying, site planning, and resurveying.",
+    "certifications": [],
+    "services": [
+      "land surveying",
+      "land use plans",
+      "elevation surveying",
+      "site planning",
+      "resurveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:35",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "experienced",
+        "honest",
+        "quality work",
+        "reliable",
+        "professional"
+      ],
+      "highlights": [
+        {
+          "text": "With nearly 20 years of experience, you know that their work is honest, and done right!",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Brandon King Land Surveying has a strong positive reputation, with reviewers praising their honesty, experience, and quality workmanship built over two decades."
+    }
+  }
+]

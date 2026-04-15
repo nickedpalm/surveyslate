@@ -1,0 +1,124 @@
+[
+  {
+    "slug": "brotherton-land-surveying-nashville",
+    "name": "Brotherton Land Surveying",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "",
+    "lat": 36.1622767,
+    "lng": -86.7742984,
+    "phone": "2147483003",
+    "website": "https://brothertonsurveys.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Locally owned surveying business providing residential surveys to Middle Tennessee.",
+    "certifications": [],
+    "services": [
+      "residential surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:21",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "responsive",
+        "reliable",
+        "knowledgeable",
+        "honest",
+        "thorough"
+      ],
+      "highlights": [
+        {
+          "text": "Brotherton Land Surveying is the epitome of professionalism, meeting government requirements while satisfying his client.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Keith Brotherton was genuinely wonderful to work with. I found him to be honest, trustworthy, precise, and a man of his word.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Anyone would be hard pressed to find a better survey (anywhere) in USA",
+          "sentiment": "positive"
+        },
+        {
+          "text": "they call you back; you actually get to speak with a real person who is genuinely interested in helping you!",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Brotherton Land Surveying has an exceptional reputation built on professionalism, reliability, responsiveness, and honest communication, with consistently positive feedback across all reviews."
+    }
+  },
+  {
+    "slug": "clint-elliott-survey-nashville",
+    "name": "Clint Elliott Survey",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "",
+    "lat": 36.1622767,
+    "lng": -86.7742984,
+    "phone": "2545352419",
+    "website": "https://www.clintelliottsurvey.com",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Nashville-based land surveying firm offering commercial, residential, construction layout, and oil & gas pipeline surveys. Operates Monday-Friday 8am-4pm CST.",
+    "certifications": [],
+    "services": [
+      "commercial surveys",
+      "residential surveys",
+      "construction layout",
+      "oil & gas pipeline survey"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:21",
+    "sentiment": null
+  },
+  {
+    "slug": "collier-engineering-co-inc-nashville",
+    "name": "Collier Engineering Co., Inc.",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "",
+    "lat": 36.1622767,
+    "lng": -86.7742984,
+    "phone": "1597087735",
+    "website": "https://collierengineering.com/surveying",
+    "email": "info@collierengineering.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides land surveying services including ALTA surveys and topographic surveys for projects in Nashville and surrounding areas like Williamson County.",
+    "certifications": [],
+    "services": [
+      "ALTA surveys",
+      "topographic surveys",
+      "construction surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:21",
+    "sentiment": null
+  }
+]

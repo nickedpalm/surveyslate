@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "new-england-land-survey-inc-central-massachusetts",
+    "name": "New England Land Survey, Inc.",
+    "city": "central-massachusetts",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3651478,
+    "lng": -71.1032707,
+    "phone": "",
+    "website": "https://nelandsurvey.net",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional land surveying firm established in 2008, providing reliable services across Massachusetts including the Islands. Small skilled team focused on precision and timely results.",
+    "certifications": [],
+    "services": [
+      "Mortgage Inspection Plans",
+      "Boundary Surveys",
+      "ALTA Surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:58",
+    "sentiment": null
+  }
+]

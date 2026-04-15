@@ -1,0 +1,55 @@
+[
+  {
+    "slug": "dietz-land-surveying-parkville",
+    "name": "Dietz Land Surveying",
+    "city": "parkville",
+    "state": "MD",
+    "address": "",
+    "lat": 39.3868522,
+    "lng": -76.5508618,
+    "phone": "410-661-3160",
+    "website": "https://dietzsurveying.net",
+    "email": "bdietz@dietzsurveying.net",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Surveying services for Baltimore City, Baltimore County, Anne Arundel, Carroll, Howard, and Harford Counties; member of Maryland Society of Surveyors.",
+    "certifications": [],
+    "services": [
+      "boundary surveys",
+      "property marker location",
+      "construction staking"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:28",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "thorough research",
+        "attention to detail",
+        "found missing marker",
+        "deed intent",
+        "superior service",
+        "court-endorsed"
+      ],
+      "highlights": [
+        {
+          "text": "Dietz clearly performed the better survey for these reasons: They performed more research, found the missing marker",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They followed the intent of the deed - Judge Lawrence Daniels, Baltimore County Circuit Court",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Dietz Land Surveying has an exceptionally positive reputation, validated by a court judgment praising their thorough research, attention to detail, and superior survey quality."
+    }
+  }
+]

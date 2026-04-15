@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "kemper-associates-inc-new-brighton",
+    "name": "Kemper & Associates, Inc.",
+    "city": "new-brighton",
+    "state": "MN",
+    "address": "",
+    "lat": 45.0628999,
+    "lng": -93.2060969,
+    "phone": "(651) 631-0351",
+    "website": "https://www.kempersurveys.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Family-owned professional land surveying and GPS consulting firm serving Minnesota and other states for over 30 years.",
+    "certifications": [],
+    "services": [
+      "Land Boundary Surveys",
+      "ALTA/ACSM Land Title Surveys",
+      "Topographic Mapping",
+      "GPS Surveys",
+      "Construction Layout Surveys",
+      "Site Design/Grading Plans",
+      "Subdivision Platting and Design"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:14",
+    "sentiment": null
+  }
+]

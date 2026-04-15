@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "ward-surveying-llc-bend",
+    "name": "Ward Surveying LLC",
+    "city": "bend",
+    "state": "OR",
+    "address": "60626 Bozeman Trl, Bend, OR 97702",
+    "lat": 44.0581728,
+    "lng": -121.3153096,
+    "phone": "9732540861",
+    "website": "https://wardsurvey.com",
+    "email": "clintward@wardsurvey.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying services in Bend.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:47",
+    "sentiment": null
+  }
+]

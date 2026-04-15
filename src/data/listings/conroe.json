@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "texas-professional-surveying-conroe",
+    "name": "Texas Professional Surveying",
+    "city": "conroe",
+    "state": "TX",
+    "address": "Not provided",
+    "lat": 30.3118769,
+    "lng": -95.4560512,
+    "phone": "Not provided",
+    "website": "https://www.surveyingtexas.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Independent surveying and mapping firm serving public and private sectors in Montgomery County and surrounding areas with state-of-the-art technology and aerial photography",
+    "certifications": [],
+    "services": [
+      "Boundary acreage surveys",
+      "Lot surveys",
+      "Mortgage surveys",
+      "Topographic surveys",
+      "Subdivision design and platting",
+      "Construction and elevation surveys",
+      "Aerial drone surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 19:59:52",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "reliable",
+        "quality work",
+        "responsive",
+        "timely",
+        "excellent service"
+      ],
+      "highlights": [
+        {
+          "text": "They are very professional and highly reliable. This is a very important quality since our jobs are extremely time sensitive.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I only recommend Texas Professional Surveyors for full-service high quality survey work.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They have always done a fantastic job with great timing for an amazing price.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We have been pleased with their professionalism, their quality of work and job completion when promised.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Texas Professional Surveying has an exceptionally strong reputation with uniformly positive reviews praising their professionalism, reliability, quality work, and consistent on-time delivery across multiple industries and counties."
+    }
+  }
+]

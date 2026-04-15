@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "murphy-land-surveying-river-falls",
+    "name": "Murphy Land Surveying",
+    "city": "river-falls",
+    "state": "WI",
+    "address": "",
+    "lat": 44.8596498,
+    "lng": -92.6255048,
+    "phone": "(715) 425-9032",
+    "website": "https://www.murphylandsurveyingwi.com",
+    "email": "bklsllc@gmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Trusted land surveying with 35 years of experience in St. Croix County, offering boundary line surveys, land surveys, and certified survey maps.",
+    "certifications": [],
+    "services": [
+      "boundary line surveys",
+      "land surveys",
+      "certified survey maps"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:35",
+    "sentiment": null
+  }
+]

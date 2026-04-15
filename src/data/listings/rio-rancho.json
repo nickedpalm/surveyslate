@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "csi-cartesian-surveys-inc-rio-rancho",
+    "name": "CSI-Cartesian Surveys, Inc.",
+    "city": "rio-rancho",
+    "state": "NM",
+    "address": "661 Quantum Rd NE Ste 11, Rio Rancho, NM 87124-4505",
+    "lat": 35.3108227,
+    "lng": -106.6847453,
+    "phone": "1756463164",
+    "website": "http://www.cartesiansurveys.com",
+    "email": "cartesianadrian@gmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Land surveyors serving New Mexico and Arizona since 1999. Provides boundary surveys, mortgage surveys, ALTA surveys, and construction staking.",
+    "certifications": [],
+    "services": [
+      "boundary surveys",
+      "mortgage surveys",
+      "ALTA surveys",
+      "construction staking"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:42",
+    "sentiment": null
+  }
+]

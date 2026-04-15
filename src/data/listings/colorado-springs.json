@@ -1,0 +1,89 @@
+[
+  {
+    "slug": "apex-land-surveying-and-mapping-llc-colorado-springs",
+    "name": "Apex Land Surveying and Mapping LLC",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "address": "",
+    "lat": 38.8339578,
+    "lng": -104.825348,
+    "phone": "2545352419",
+    "website": "https://www.apexsurveyor.com",
+    "email": "1eeb89147c984dc6bc3ffafd9e6cd089@sentry.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Experienced land surveyor in Colorado Springs and beyond with over 30 years of experience.",
+    "certifications": [],
+    "services": [
+      "land surveying",
+      "mapping"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:48",
+    "sentiment": null
+  },
+  {
+    "slug": "gould-land-surveying-colorado-springs",
+    "name": "Gould Land Surveying",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "address": "",
+    "lat": 38.8339578,
+    "lng": -104.825348,
+    "phone": "719.687.8385",
+    "website": "https://gouldls.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying company licensed in Colorado and Arizona, serving Colorado Springs, Woodland Park, El Paso County, Teller County, and Park County with boundary surveys, ALTA, plats, subdivisions, easements, and right-of-ways using GPS and robotic total stations.",
+    "certifications": [],
+    "services": [
+      "boundary/property line surveys",
+      "ALTA surveys",
+      "plats and subdivisions"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:48",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "thorough",
+        "accurate",
+        "timely",
+        "reliable",
+        "honest"
+      ],
+      "highlights": [
+        {
+          "text": "Ken and his team conducted thorough and accurate surveys with a sincere and honest approach",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They found a pin that 3 other surveyors missed and adhered to their timeline and budget",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Answered the phone - BIG PLUS! Ken was able to schedule in a timely manner",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Gould Land Surveying has an exceptional reputation with uniformly positive reviews praising their professionalism, accuracy, reliability, and superior customer service under Ken's leadership."
+    }
+  }
+]

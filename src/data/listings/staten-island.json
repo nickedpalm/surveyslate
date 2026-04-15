@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "rogers-surveying-pllc-staten-island",
+    "name": "Rogers Surveying PLLC",
+    "city": "staten-island",
+    "state": "NY",
+    "address": "Staten Island, New York",
+    "lat": 40.5834557,
+    "lng": -74.1496048,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Commercial Development and Engineering company established in 1946. Focuses on land surveying and commercial construction.",
+    "certifications": [],
+    "services": [
+      "Land Surveying",
+      "Commercial Construction"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 19:59:43",
+    "sentiment": null
+  }
+]

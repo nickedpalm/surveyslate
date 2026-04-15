@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "bisbee-land-surveying-bisbee",
+    "name": "Bisbee Land Surveying",
+    "city": "bisbee",
+    "state": "AZ",
+    "address": "",
+    "lat": 31.4417165,
+    "lng": -109.9159946,
+    "phone": "520-226-1084",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying services operating in Graham County and surrounding areas.",
+    "certifications": [],
+    "services": [
+      "land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:57",
+    "sentiment": null
+  }
+]

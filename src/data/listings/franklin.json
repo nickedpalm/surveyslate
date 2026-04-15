@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "d-obrien-land-surveying-franklin",
+    "name": "D. O'Brien Land Surveying",
+    "city": "franklin",
+    "state": "MA",
+    "address": "",
+    "lat": 42.5896205,
+    "lng": -72.6110645,
+    "phone": "",
+    "website": "https://www.dennisobrienlandsurveying.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Expert land surveying services established in 1996 with 30+ years experience. Fully licensed, insured, free estimates in 24 hours. Serves all of Massachusetts using advanced technology.",
+    "certifications": [],
+    "services": [
+      "Site Surveys",
+      "Property Surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:58",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "sandia-land-surveying-llc-placitas",
+    "name": "Sandia Land Surveying, LLC",
+    "city": "placitas",
+    "state": "NM",
+    "address": "15 Casa Terrenos, Placitas, NM 87043",
+    "lat": 35.3095846,
+    "lng": -106.4914706,
+    "phone": "(505) 867-1241",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Land surveying services.",
+    "certifications": [],
+    "services": [
+      "land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:42",
+    "sentiment": null
+  }
+]

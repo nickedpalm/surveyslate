@@ -1,0 +1,103 @@
+[
+  {
+    "slug": "philadelphia-land-surveying-philadelphia",
+    "name": "Philadelphia Land Surveying",
+    "city": "Philadelphia",
+    "state": "PA",
+    "address": "",
+    "lat": 39.9527237,
+    "lng": -75.1635262,
+    "phone": "(215) 585-2885",
+    "website": "https://philadelphialandsurveying.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Local land surveying services for Philadelphia and Philadelphia County area.[7]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:19",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "fences",
+        "neighbors",
+        "boundaries",
+        "property lines",
+        "good service"
+      ],
+      "highlights": [
+        {
+          "text": "Good Fences Make Good Neighbors",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Limited review data suggests positive sentiment with a focus on property boundary clarity and neighborly relations."
+    }
+  },
+  {
+    "slug": "point-to-point-land-surveyors-philadelphia",
+    "name": "Point to Point Land Surveyors",
+    "city": "Philadelphia",
+    "state": "PA",
+    "address": "",
+    "lat": 39.9527237,
+    "lng": -75.1635262,
+    "phone": "(866) 706-9114",
+    "website": "https://www.pointtopointsurvey.com/service-location/pa/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers boundary surveys, construction staking, FEMA flood certification, ALTA land title surveys, and subdivision platting statewide in Pennsylvania by licensed surveyors.[3]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:19",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "excellent service",
+        "experienced team",
+        "thorough",
+        "reliable",
+        "responsive"
+      ],
+      "highlights": [
+        {
+          "text": "Point to Point Land Surveyors is the best surveying firm that I have worked with as an engineer or developer.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They bring valuable expertise, consistency and responsiveness to any team.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "This firm is by far the leading wireless telecom land surveying company in the Georgia market.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Charles has always been professional and of unequaled integrity.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Point to Point Land Surveyors receives overwhelmingly positive sentiment across all reviews, consistently praised for professional expertise, thoroughness, reliability, and exceptional customer service."
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "millidec-engineers-surveyors-drafters-llc-germantown",
+    "name": "Millidec Engineers, Surveyors, Drafters, LLC",
+    "city": "germantown",
+    "state": "DC",
+    "address": "13505 Kildare Hills Terrace, Suite 301, Germantown, MD 20874",
+    "lat": 0,
+    "lng": 0,
+    "phone": "(240) 743-3044",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Engineering, surveying, and drafting firm led by DC registered surveyor Freddy Deegbe, serving the DC area.",
+    "certifications": [],
+    "services": [
+      "Land Surveying",
+      "Engineering",
+      "Drafting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:56",
+    "sentiment": null
+  },
+  {
+    "slug": "snider-associates-germantown",
+    "name": "Snider & Associates",
+    "city": "germantown",
+    "state": "DC",
+    "address": "19544 Amaranth Drive, Germantown, MD 20874",
+    "lat": 0,
+    "lng": 0,
+    "phone": "(301) 948-5100",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Surveying firm associated with a DC registered surveyor, providing land surveying services for the DC region.",
+    "certifications": [],
+    "services": [
+      "Land Surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:56",
+    "sentiment": null
+  }
+]

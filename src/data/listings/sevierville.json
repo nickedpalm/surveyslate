@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "tennessee-land-development-services-sevierville",
+    "name": "Tennessee Land Development Services",
+    "city": "sevierville",
+    "state": "TN",
+    "address": "",
+    "lat": 35.8672932,
+    "lng": -83.5657167,
+    "phone": "9999999999",
+    "website": "https://www.tnlds.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying company based in East Tennessee, focusing on Sevier County and adjoining counties including Cocke, Hamblen, Knox, Blount, and Jefferson. Provides residential and commercial surveys, elevation certificates, lot and boundary surveys, subdivisions, construction layout, property disputes, mediation, forensic cartography, and free consultations.",
+    "certifications": [],
+    "services": [
+      "elevation certificates",
+      "lot and boundary surveys",
+      "subdivisions and construction layout",
+      "forensic surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:21",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "surveying",
+        "forensic science",
+        "professional",
+        "scientific",
+        "court-ready",
+        "expertise"
+      ],
+      "highlights": [
+        {
+          "text": "surveyors are forensic scientists",
+          "sentiment": "positive"
+        },
+        {
+          "text": "nearly any work a surveyor does has the very real potential of being used in court",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "The review establishes credibility and professional expertise by positioning surveying within a forensic science framework, emphasizing the scientific rigor and court-readiness of services."
+    }
+  }
+]

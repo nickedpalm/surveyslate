@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "mcmillen-engineering-inc-uniontown",
+    "name": "McMillen Engineering, Inc.",
+    "city": "uniontown",
+    "state": "PA",
+    "address": "",
+    "lat": 39.900937,
+    "lng": -79.725931,
+    "phone": "",
+    "website": "https://www.mcmilleng.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full-service civil engineering and land surveying firm offering boundary surveys, topographic surveys, ALTA/NSPS Land Title Surveys, and As-Built Surveys. Veteran-owned with PA-licensed surveyors experienced in GPS technology.[2][5]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:19",
+    "sentiment": null
+  }
+]

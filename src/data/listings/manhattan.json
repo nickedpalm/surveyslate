@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "manhattan-land-surveying-and-engineering-mlse-manhattan",
+    "name": "Manhattan Land Surveying and Engineering (MLSE)",
+    "city": "manhattan",
+    "state": "NY",
+    "address": "Manhattan, New York",
+    "lat": 40.7579554,
+    "lng": -73.9855319,
+    "phone": "1610658285",
+    "website": "https://www.manhattansurveying.com",
+    "email": "info@manhattansurveying.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides quick, accurate surveys in New York with comprehensive survey solutions.",
+    "certifications": [],
+    "services": [
+      "Land Surveying",
+      "Engineering"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 19:59:43",
+    "sentiment": null
+  }
+]

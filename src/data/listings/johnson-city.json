@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "tn-professional-surveying-inc-johnson-city",
+    "name": "TN Professional Surveying Inc.",
+    "city": "johnson-city",
+    "state": "TN",
+    "address": "",
+    "lat": 36.3167671,
+    "lng": -82.352903,
+    "phone": "(423) 915-1136",
+    "website": "https://www.tnprosurveyinginc.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional land surveying firm with offices in Jonesborough and Johnson City, serving all of East Tennessee for commercial, residential, industrial, and utility customers. Offers services like home layout and beer permit surveys with nearly 3 decades of experience.",
+    "certifications": [],
+    "services": [
+      "land surveying for commercial/residential/industrial",
+      "home layout surveys",
+      "beer permit surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:21",
+    "sentiment": null
+  }
+]

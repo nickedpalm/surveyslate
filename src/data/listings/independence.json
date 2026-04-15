@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "armstrong-surveying-independence",
+    "name": "Armstrong Surveying",
+    "city": "independence",
+    "state": "KY",
+    "address": "1713 Relway Dr, Independence, KY",
+    "lat": 38.9431183,
+    "lng": -84.544109,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveyor business operating in Independence, Kentucky.",
+    "certifications": [],
+    "services": [
+      "land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:22",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "r-e-decker-pc-libertyville",
+    "name": "R E Decker PC",
+    "city": "libertyville",
+    "state": "IL",
+    "address": "333 Peterson Rd Ste B, Libertyville, IL 60048",
+    "lat": 42.2830786,
+    "lng": -87.9531303,
+    "phone": "",
+    "website": "https://deckersurvey.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveyor services in Libertyville, IL.",
+    "certifications": [],
+    "services": [
+      "land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:11",
+    "sentiment": null
+  }
+]

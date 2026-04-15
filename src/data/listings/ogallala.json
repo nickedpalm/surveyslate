@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "dickinson-land-surveyors-inc-ogallala",
+    "name": "Dickinson Land Surveyors, Inc.",
+    "city": "ogallala",
+    "state": "NE",
+    "address": "302 Diamond Springs Trail, Ogallala, NE 69153",
+    "lat": 41.1248328,
+    "lng": -101.7189583,
+    "phone": "308-284-8440",
+    "website": "https://dickinsonlandsurveyors.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full-service, family-owned surveying and civil engineering firm serving western Nebraska and eastern Colorado since 2003, with offices in Ogallala and North Platte.",
+    "certifications": [],
+    "services": [
+      "Rural and Urban Land Surveys",
+      "Construction Staking",
+      "GPS Control Surveys",
+      "Topographic Surveys",
+      "Land Development Surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:36",
+    "sentiment": null
+  }
+]

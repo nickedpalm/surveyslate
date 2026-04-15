@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "centerline-concepts-inc-oregon-city",
+    "name": "Centerline Concepts, Inc.",
+    "city": "oregon-city",
+    "state": "OR",
+    "address": "19376 Molalla Ave Ste 120, Oregon City, OR 97045",
+    "lat": 45.3573429,
+    "lng": -122.606758,
+    "phone": "1503650018",
+    "website": "https://centerlineconcepts.com",
+    "email": "requests@centerlineconcepts.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying firm providing services in Oregon City.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:47",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "bell-land-surveys-spotsylvania",
+    "name": "Bell Land Surveys",
+    "city": "spotsylvania",
+    "state": "VA",
+    "address": "",
+    "lat": 38.1880936,
+    "lng": -77.6741751,
+    "phone": "1730472049",
+    "website": "https://www.bellsurveys.com",
+    "email": "bell@bellsurveys.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Virginia land surveying company with over 50 years of experience serving Louisa, Orange, Spotsylvania, Caroline, Hanover, Goochland, Powhatan, Amelia, Cumberland, Buckingham, and Fluvanna counties for homeowners, builders, and engineers.",
+    "certifications": [],
+    "services": [
+      "property boundary surveys",
+      "site plans",
+      "topographic surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:14",
+    "sentiment": null
+  }
+]

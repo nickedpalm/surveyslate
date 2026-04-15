@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "scalice-land-surveying-pc-long-island",
+    "name": "Scalice Land Surveying P.C.",
+    "city": "long-island",
+    "state": "NY",
+    "address": "Long Island, New York",
+    "lat": 40.8514971,
+    "lng": -73.0994297,
+    "phone": "1776102388",
+    "website": "https://mjslandsurvey.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Family-owned surveying business established in 2013. Services NY and NC with over 6,000 completed surveys. Offers title, boundary, topographic surveys and FEMA elevation certificates.",
+    "certifications": [],
+    "services": [
+      "Title surveys",
+      "Boundary surveys",
+      "Topographic surveys",
+      "FEMA elevation certificates",
+      "Site plans",
+      "Property staking",
+      "Subdivisions",
+      "Construction layout"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 19:59:43",
+    "sentiment": null
+  }
+]

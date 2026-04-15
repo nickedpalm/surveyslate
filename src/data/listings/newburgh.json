@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "morley-newburgh",
+    "name": "Morley",
+    "city": "newburgh",
+    "state": "IN",
+    "address": "4800 Rosebud Lane, Newburgh, IN 47630",
+    "lat": 37.965239,
+    "lng": -87.4489562,
+    "phone": "(812) 464-9585",
+    "website": "https://www.morleyandassociates.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Engineering and surveying services in southwestern Indiana.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:21",
+    "sentiment": null
+  }
+]

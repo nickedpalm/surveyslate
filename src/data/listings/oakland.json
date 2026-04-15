@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "milestone-land-surveying-llc-oakland",
+    "name": "Milestone Land Surveying LLC",
+    "city": "Oakland",
+    "state": "NE",
+    "address": "2406 Hwy. 32, Oakland, NE 68045",
+    "lat": 41.8288074,
+    "lng": -96.4757435,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying services by licensed surveyor Nicholas N. Seery (#689).",
+    "certifications": [],
+    "services": [
+      "Land Surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:36",
+    "sentiment": null
+  }
+]

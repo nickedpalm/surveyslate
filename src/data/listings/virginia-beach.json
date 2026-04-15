@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "james-river-surveying-virginia-beach",
+    "name": "James River Surveying",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "address": "",
+    "lat": 36.8496579,
+    "lng": -75.9760751,
+    "phone": "6155338372",
+    "website": "https://jamesriversurveying.com",
+    "email": "surveyor@jamesriversurveying.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Trusted land surveyors providing solutions for property owners including boundary, fence, ALTA, and subdivision surveys across Virginia.",
+    "certifications": [],
+    "services": [
+      "boundary surveys",
+      "fence surveying",
+      "ALTA surveys",
+      "subdivisions",
+      "lot line adjustments"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:14",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "quick and easy",
+        "smooth and stress-free",
+        "excellent communication",
+        "responsive",
+        "professional team",
+        "highly recommend"
+      ],
+      "highlights": [
+        {
+          "text": "From booking the appointment to having the survey completed, this was quick and easy!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "James River Surveying made the entire process smooth and stress-free.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The customer service was superb (from start to finish)",
+          "sentiment": "positive"
+        },
+        {
+          "text": "communicated clearly at every step and were always quick to respond",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "James River Surveying has an exceptionally positive reputation with consistently outstanding reviews praising their fast service, clear communication, professional team, and stress-free experience."
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "strouse-land-surveyors-clinton-mo",
+    "name": "Strouse Land Surveyors",
+    "city": "clinton-mo",
+    "state": "MO",
+    "address": "Not provided",
+    "lat": 39.5975986,
+    "lng": -94.4184896,
+    "phone": "Not provided",
+    "website": "https://www.strousesurveyor.com",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Locally owned and operated land surveying firm serving Henry County and surrounding counties.",
+    "certifications": [],
+    "services": [
+      "Land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:39",
+    "sentiment": null
+  }
+]

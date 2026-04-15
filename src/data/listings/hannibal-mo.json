@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "klingner-and-associates-pc-hannibal-mo",
+    "name": "Klingner and Associates PC",
+    "city": "hannibal-mo",
+    "state": "MO",
+    "address": "4510 Paris Gravel Road, Hannibal, MO 63401",
+    "lat": 39.6855539,
+    "lng": -91.4117721,
+    "phone": "573-221-0020",
+    "website": "Not provided",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying firm based in Hannibal.",
+    "certifications": [],
+    "services": [
+      "Land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:39",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "slug": "landmark-surveys-llc-metuchen",
+    "name": "Landmark Surveys, LLC",
+    "city": "metuchen",
+    "state": "NJ",
+    "address": "Not provided",
+    "lat": 40.5431598,
+    "lng": -74.3632049,
+    "phone": "Not provided",
+    "website": "http://lmspls.com",
+    "email": "OTTOJR@LMSPLS.COM",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Landscape surveyor offering construction layout surveying, utility construction, tunnel boring, and channel dredging services for residential, commercial, industrial, and municipal clients",
+    "certifications": [],
+    "services": [
+      "construction layout surveying",
+      "utility construction",
+      "tunnel boring",
+      "channel dredging"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:48",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional",
+        "patient",
+        "reliable",
+        "responsive",
+        "knowledgeable",
+        "owner involvement"
+      ],
+      "highlights": [
+        {
+          "text": "Very helpful and professional.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Landmark and staff, were very patient and gave me realistic time frames",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The owner of the company even spoke to me directly multiple times about the process",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I dealt with other surveying companies that promised to come out but never showed up",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Landmark Surveys, LLC receives overwhelmingly positive sentiment with excellent ratings for professionalism, reliability, patient communication, and exceptional owner engagement compared to competitors."
+    }
+  }
+]

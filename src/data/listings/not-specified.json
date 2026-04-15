@@ -1,0 +1,215 @@
+[
+  {
+    "slug": "brunswick-surveying-inc-not-specified",
+    "name": "Brunswick Surveying, Inc.",
+    "city": "not-specified",
+    "state": "NJ",
+    "address": "Not provided",
+    "lat": 0,
+    "lng": 0,
+    "phone": "Not provided",
+    "website": "https://www.brunswicksurveying.com",
+    "email": "Info@BrunswickSurveying.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Licensed land surveyors serving New Jersey for over 30 years with over 30,000 properties surveyed",
+    "certifications": [],
+    "services": [
+      "land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:48",
+    "sentiment": null
+  },
+  {
+    "slug": "kelly-survey-not-specified",
+    "name": "Kelly Survey",
+    "city": "not-specified",
+    "state": "NJ",
+    "address": "Not provided",
+    "lat": 0,
+    "lng": 0,
+    "phone": "Not provided",
+    "website": "https://kellysurvey.com",
+    "email": "info@kellysurvey.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional land surveyor and planner with over 50 years of experience, licensed in New Jersey and Pennsylvania, certified floodplain surveyor",
+    "certifications": [],
+    "services": [
+      "land surveying",
+      "planning",
+      "floodplain surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:48",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "fast and efficient",
+        "professional",
+        "excellent service",
+        "helpful staff",
+        "timely delivery",
+        "easy to work with"
+      ],
+      "highlights": [
+        {
+          "text": "if you want the best you have to use the best",
+          "sentiment": "positive"
+        },
+        {
+          "text": "left me 100% satisfied",
+          "sentiment": "positive"
+        },
+        {
+          "text": "field work was done quickly, neatly, and efficiently",
+          "sentiment": "positive"
+        },
+        {
+          "text": "What a pleasure to work with!",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Kelly Survey has an exceptionally strong reputation with uniformly positive reviews praising their speed, professionalism, helpfulness, and quality of work across residential and commercial projects."
+    }
+  },
+  {
+    "slug": "lan-associates-not-specified",
+    "name": "LAN Associates",
+    "city": "not-specified",
+    "state": "NJ",
+    "address": "Not provided",
+    "lat": 0,
+    "lng": 0,
+    "phone": "Not provided",
+    "website": "https://lanassociates.com/nj-survey-firm/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "NJ survey firm with over 50 years of experience providing topographical, elevation, industrial/commercial, and boundary surveys using GPS, Robotic Total Stations, and aerial scanners",
+    "certifications": [],
+    "services": [
+      "topographical surveys",
+      "elevation surveys",
+      "industrial/commercial surveys",
+      "boundary surveys",
+      "construction stakeout",
+      "subdivisions"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:48",
+    "sentiment": null
+  },
+  {
+    "slug": "teunisen-surveying-planning-not-specified",
+    "name": "Teunisen Surveying & Planning",
+    "city": "not-specified",
+    "state": "NJ",
+    "address": "Not provided",
+    "lat": 0,
+    "lng": 0,
+    "phone": "908-233-3550",
+    "website": "https://www.teunisensurveying.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Premier land surveying company with over 40 years of experience in residential and commercial surveying, construction stakeout, and structure monitoring surveys across NJ, NY, and PA",
+    "certifications": [],
+    "services": [
+      "residential surveying",
+      "commercial surveying",
+      "construction stakeout",
+      "construction staking",
+      "ALTA/NSPS surveys",
+      "structure monitoring"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:48",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "quality",
+        "professional",
+        "experienced",
+        "modern technology",
+        "cost effective",
+        "responsive"
+      ],
+      "highlights": [
+        {
+          "text": "A Tradition of QUALITY for Over 40 Years",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Time Tested Techniques + Modern Technology",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Cost Effective & Responsive",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Teunisen Surveying & Planning is highly regarded for its 40+ year reputation of quality work, combining traditional expertise with modern technology at competitive rates."
+    }
+  },
+  {
+    "slug": "vallee-surveying-not-specified",
+    "name": "Vallee Surveying",
+    "city": "not-specified",
+    "state": "NJ",
+    "address": "Not provided",
+    "lat": 0,
+    "lng": 0,
+    "phone": "Not provided",
+    "website": "https://valleesurveying.com",
+    "email": "info@valleesurveying.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional land surveying company utilizing state-of-the-art technology for precise accuracy, serving builders, developers, and homeowners throughout New Jersey",
+    "certifications": [],
+    "services": [
+      "land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:48",
+    "sentiment": null
+  }
+]

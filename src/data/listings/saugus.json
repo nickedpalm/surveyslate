@@ -1,0 +1,61 @@
+[
+  {
+    "slug": "otte-dwyer-inc-saugus",
+    "name": "Otte & Dwyer, Inc.",
+    "city": "saugus",
+    "state": "MA",
+    "address": "",
+    "lat": 42.4648183,
+    "lng": -71.010051,
+    "phone": "781-233-8155",
+    "website": "https://www.ottedwyer.com",
+    "email": "bnolan@ottedwyer.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying firm founded over 50 years ago, providing services in MA and NH with trusted knowledge and experience.",
+    "certifications": [],
+    "services": [
+      "Land Surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:58",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "reliable",
+        "knowledgeable",
+        "accurate",
+        "responsive",
+        "competitive pricing",
+        "professional"
+      ],
+      "highlights": [
+        {
+          "text": "David fit me into his schedule and got this done for me in the matter of two weeks.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They are reliable, accurate and make sure to go the extra mile when you really need it.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I 100% recommend them!!!!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Their quote was also extremely competitive.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Otte & Dwyer, Inc. has an outstanding reputation with consistently positive reviews praising their responsiveness, accuracy, expertise, and competitive pricing."
+    }
+  }
+]

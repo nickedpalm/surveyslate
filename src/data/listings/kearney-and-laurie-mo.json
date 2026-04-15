@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "nelson-land-surveying-inc-kearney-and-laurie-mo",
+    "name": "Nelson Land Surveying Inc.",
+    "city": "kearney-and-laurie-mo",
+    "state": "MO",
+    "address": "Not provided",
+    "lat": 0,
+    "lng": 0,
+    "phone": "816-903-2500, 573-374-4400",
+    "website": "https://nelsonlandsurveying.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Residential and commercial surveying firm operating since 2000. Focuses on quick response and customer service in Kearney, Laurie, and surrounding communities.",
+    "certifications": [],
+    "services": [
+      "Residential surveys",
+      "Commercial surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:39",
+    "sentiment": null
+  }
+]

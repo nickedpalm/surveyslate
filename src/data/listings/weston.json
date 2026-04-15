@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "vreeland-land-surveyors-engineers-weston",
+    "name": "Vreeland Land Surveyors & Engineers",
+    "city": "weston",
+    "state": "WI",
+    "address": "",
+    "lat": 44.9055006,
+    "lng": -89.5725724,
+    "phone": "",
+    "website": "https://vreelandlandsurveying.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Family-owned for three generations, offering land surveying and civil engineering services to commercial and residential customers in North Central Wisconsin.",
+    "certifications": [],
+    "services": [
+      "land surveying",
+      "civil engineering"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:35",
+    "sentiment": null
+  }
+]

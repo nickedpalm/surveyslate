@@ -1,0 +1,48 @@
+[
+  {
+    "slug": "farrier-surveying-inc-kalkaska",
+    "name": "Farrier Surveying, Inc.",
+    "city": "kalkaska",
+    "state": "MI",
+    "address": "",
+    "lat": 44.6780512,
+    "lng": -85.1002509,
+    "phone": "(231) 258-8162",
+    "website": "http://www.farriersurveying.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Residential, commercial, and oil/gas surveying services since 1981 with over 40 years of licensed experience.",
+    "certifications": [],
+    "services": [
+      "residential surveying",
+      "commercial surveying",
+      "oil and gas surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:29",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "residential surveying",
+        "commercial surveying",
+        "oil and gas surveying"
+      ],
+      "highlights": [
+        {
+          "text": "Satisfied clients highlight professional service",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Residential, commercial, and oil/gas surveying services since 1981 with over 40 years of licensed experience."
+    }
+  }
+]

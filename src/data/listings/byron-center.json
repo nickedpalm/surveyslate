@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "burgess-surveying-byron-center",
+    "name": "Burgess Surveying",
+    "city": "byron-center",
+    "state": "MI",
+    "address": "",
+    "lat": 42.8143115,
+    "lng": -85.7279047,
+    "phone": "1776286275",
+    "website": "https://burgesssurveying.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying services to public and private clients statewide in Michigan, from Grand Rapids to Traverse City to Detroit; full range of survey and platting services with state-of-the-art technology.",
+    "certifications": [],
+    "services": [
+      "land survey",
+      "platting",
+      "boundary surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:29",
+    "sentiment": null
+  }
+]

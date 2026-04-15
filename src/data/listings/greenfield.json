@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "mj-gibson-surveys-greenfield",
+    "name": "MJ Gibson Surveys",
+    "city": "greenfield",
+    "state": "IN",
+    "address": "1898 W US 40, Greenfield, IN 46140",
+    "lat": 39.7855096,
+    "lng": -85.7681979,
+    "phone": "1776253007",
+    "website": "https://www.mjgsurveys.com",
+    "email": "office@mjgsurveys.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers ALTA/ACSM surveys and other land surveying services as a small company.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:21",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "yellowrose-surveying-weatherford",
+    "name": "YellowRose Surveying",
+    "city": "weatherford",
+    "state": "TX",
+    "address": "Not provided",
+    "lat": 32.7589648,
+    "lng": -97.7970748,
+    "phone": "(817) 695-4100",
+    "website": "https://www.yellowrosemapping.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Surveying services provider serving Weatherford, Fort Worth, and Plano areas",
+    "certifications": [],
+    "services": [
+      "Surveying and mapping"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 19:59:52",
+    "sentiment": null
+  }
+]

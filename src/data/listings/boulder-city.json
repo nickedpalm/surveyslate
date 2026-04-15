@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "prewitt-land-surveying-boulder-city",
+    "name": "Prewitt Land Surveying",
+    "city": "boulder-city",
+    "state": "NV",
+    "address": "",
+    "lat": 35.9787649,
+    "lng": -114.8337574,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying primarily in Southern Nevada and Southern California.",
+    "certifications": [],
+    "services": [
+      "Land Surveyor"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:13",
+    "sentiment": null
+  }
+]

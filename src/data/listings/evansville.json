@@ -1,0 +1,59 @@
+[
+  {
+    "slug": "lochmueller-group-inc-evansville",
+    "name": "Lochmueller Group, Inc.",
+    "city": "evansville",
+    "state": "IN",
+    "address": "6200 Vogel Road, Evansville, IN 47715",
+    "lat": 37.9876733,
+    "lng": -87.4768207,
+    "phone": "(800) 423-7411",
+    "website": "https://www.lochgroup.com",
+    "email": "info@lochgroup.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Multi-disciplinary firm including land surveying services.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:21",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "best place to work",
+        "employee-owned",
+        "growth",
+        "awards",
+        "expansion",
+        "people-focused"
+      ],
+      "highlights": [
+        {
+          "text": "Named a 2026 Best Place to Work in Illinois",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Named a 2026 Best Place to Work in Indiana",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Celebrating People, Projects, and Progress",
+          "sentiment": "positive"
+        },
+        {
+          "text": "What It Means to Be Employee-Owned",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Lochmueller Group demonstrates exceptional positive sentiment through multiple workplace awards, strategic expansion, and strong emphasis on employee culture and recognition."
+    }
+  }
+]

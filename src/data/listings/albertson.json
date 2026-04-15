@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "arek-surveying-pc-albertson",
+    "name": "Arek Surveying P.C.",
+    "city": "albertson",
+    "state": "NY",
+    "address": "10 Taft Place, Albertson, NY 11507",
+    "lat": 40.769952,
+    "lng": -73.6497541,
+    "phone": "(516) 792-6676",
+    "website": "https://www.ascny.net",
+    "email": "survey@ascny.net",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 5.0,
+    "review_count": 0,
+    "description": "Premier land surveyors since 1999 serving NYC and New Jersey. Performs regular property surveys to large construction projects with 5/5 Google rating.",
+    "certifications": [],
+    "services": [
+      "Property surveys",
+      "Construction surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 19:59:43",
+    "sentiment": {
+      "label": "positive",
+      "score": 1.0,
+      "keywords": [
+        "Property surveys",
+        "Construction surveys"
+      ],
+      "highlights": [],
+      "summary": "Premier land surveyors since 1999 serving NYC and New Jersey. Performs regular property surveys to large construction projects with 5/5 Google rating."
+    }
+  }
+]

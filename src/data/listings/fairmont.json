@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "madsen-land-surveying-inc-fairmont",
+    "name": "Madsen Land Surveying Inc",
+    "city": "fairmont",
+    "state": "MN",
+    "address": "",
+    "lat": 43.6521775,
+    "lng": -94.4610832,
+    "phone": "",
+    "website": "https://www.madsenlandsurveying.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying company using modern technology for lot surveys, farm surveys, and topographic surveys in Fairmont, MN.",
+    "certifications": [],
+    "services": [
+      "Lot Surveys",
+      "Farm Surveys",
+      "Topographic Surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:14",
+    "sentiment": null
+  }
+]

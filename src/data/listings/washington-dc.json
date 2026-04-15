@@ -1,0 +1,402 @@
+[
+  {
+    "slug": "cas-engineering-dc-llc-washington-dc",
+    "name": "CAS Engineering-DC LLC",
+    "city": "Washington",
+    "state": "DC",
+    "address": "1001 Connecticut Avenue, NW, Suite 401",
+    "lat": 38.8950982,
+    "lng": -77.0363849,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Engineering and surveying firm with DC registered surveyor David C. Landsman, providing land surveying services in the District of Columbia.",
+    "certifications": [],
+    "services": [
+      "Land Surveying",
+      "Engineering"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:56",
+    "sentiment": null
+  },
+  {
+    "slug": "currie-and-associates-llc-washington-dc",
+    "name": "Currie and Associates LLC",
+    "city": "Washington",
+    "state": "DC",
+    "address": "",
+    "lat": 38.8950982,
+    "lng": -77.0363849,
+    "phone": "1768510655",
+    "website": "https://currieandassociatesllc.com",
+    "email": "Tony@currieandassociates.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Licensed and registered land surveyor firm offering ALTA surveys, boundary surveys, and services for commercial and governmental projects in the DC Metro Area.",
+    "certifications": [],
+    "services": [
+      "ALTA Survey",
+      "Boundary Survey"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:56",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "trusted",
+        "experienced",
+        "efficient",
+        "accurate",
+        "reliable",
+        "licensed"
+      ],
+      "highlights": [
+        {
+          "text": "Trusted by architects, contractors, developers and local government agencies for over 35 years",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Meet Your Deadlines Without Sacrificing Quality or Reliability",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We Help you Build your dreams",
+          "sentiment": "positive"
+        },
+        {
+          "text": "adds more value and efficiency than other firms, so your project is a success\u2014every time",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Currie and Associates is highly regarded as a trusted, experienced civil engineering and surveying firm known for efficiency, accuracy, and delivering quality results for over 35 years."
+    }
+  },
+  {
+    "slug": "demarr-engineering-washington-dc",
+    "name": "DeMarr Engineering",
+    "city": "Washington",
+    "state": "DC",
+    "address": "",
+    "lat": 38.8950982,
+    "lng": -77.0363849,
+    "phone": "1776266349",
+    "website": "https://www.demarrengineering.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides licensed and registered land surveying services including boundary surveys, topographic surveys, DC building plats, construction stakeout, condominium plats, and ALTA/NSPS surveys in Washington DC.",
+    "certifications": [],
+    "services": [
+      "Boundary Surveying",
+      "Topographic Survey",
+      "DC Building Plat"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:56",
+    "sentiment": null
+  },
+  {
+    "slug": "district-survey-llc-washington-dc",
+    "name": "District Survey, LLC",
+    "city": "Washington",
+    "state": "DC",
+    "address": "800 Maine Ave SW, Suite 200, Washington, DC 20024",
+    "lat": 38.8950982,
+    "lng": -77.0363849,
+    "phone": "571-330-7055",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying company led by DC registered surveyor Ismael Vazquez, offering surveying services in Washington DC.",
+    "certifications": [],
+    "services": [
+      "Land Surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:56",
+    "sentiment": null
+  },
+  {
+    "slug": "duley-and-associates-inc-washington-dc",
+    "name": "Duley and Associates, Inc.",
+    "city": "Washington",
+    "state": "DC",
+    "address": "",
+    "lat": 38.8950982,
+    "lng": -77.0363849,
+    "phone": "1764953761",
+    "website": "https://www.marylandsurveyors.com",
+    "email": "chevas@duley.biz",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides professional land surveying services including boundary/stake surveys to customers in Washington D.C. and Maryland, emphasizing fast, high-quality products at reasonable prices.",
+    "certifications": [],
+    "services": [
+      "Boundary Surveys",
+      "Stake Surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:56",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "Boundary Surveys",
+        "Stake Surveys"
+      ],
+      "highlights": [
+        {
+          "text": "The surveyors were prompt and very professional.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Provides professional land surveying services including boundary/stake surveys to customers in Washington D.C. and Maryland, emphasizing fast, high-quality products at reasonable prices."
+    }
+  },
+  {
+    "slug": "exacta-land-surveyors-llc-washington-dc",
+    "name": "Exacta Land Surveyors LLC",
+    "city": "Washington",
+    "state": "DC",
+    "address": "1500 W 3rd Street, Cleveland, OH 44113",
+    "lat": 38.8950982,
+    "lng": -77.0363849,
+    "phone": "443-819-3994",
+    "website": "https://exactaland.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provider of land surveys and field management services for residential and commercial real estate transactions, operating in Washington DC and Northern Virginia.",
+    "certifications": [],
+    "services": [
+      "Land Surveys",
+      "Field Management",
+      "Real Estate Transactions"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:56",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "timely",
+        "professional",
+        "excellent service",
+        "quality",
+        "responsive",
+        "fair price"
+      ],
+      "highlights": [
+        {
+          "text": "Excellent service and very prompt filling of order.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Great job accommodating our crazy request for a quick turnaround.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "beating the schedule deadline and providing the buyers peace of mind!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I used the service years ago and they still have my information ready at any time. Awesome.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Exacta Land Surveyors LLC has an exceptional reputation built on consistently delivering high-quality surveys on time with excellent customer service and professional responsiveness."
+    }
+  },
+  {
+    "slug": "potomac-valley-surveys-washington-dc",
+    "name": "Potomac Valley Surveys",
+    "city": "Washington",
+    "state": "DC",
+    "address": "",
+    "lat": 38.8950982,
+    "lng": -77.0363849,
+    "phone": "888-349-5090",
+    "website": "https://www.potomacvalleysurveys.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional land surveying and site planning firm with over 35 years of experience serving Montgomery County and Washington DC, specializing in boundary surveys and infill plans.",
+    "certifications": [],
+    "services": [
+      "Boundary Surveys",
+      "Infill Plans",
+      "Site Planning"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:56",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "professional",
+        "experienced",
+        "licensed",
+        "established",
+        "credentials",
+        "licensed surveyors"
+      ],
+      "highlights": [
+        {
+          "text": "More than 35 years experience surveying in the Washington Metropolitan area",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Works closely with home owners, architects, and builders to ensure site design integrates naturally",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Licensed Professional Land Surveyor in Maryland and District of Columbia",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Potomac Valley Surveys presents a strong professional reputation with extensive experience, proper credentials, and active industry memberships, though these are website claims rather than customer reviews."
+    }
+  },
+  {
+    "slug": "sorrell-land-surveying-washington-dc",
+    "name": "Sorrell Land Surveying",
+    "city": "Washington",
+    "state": "NC",
+    "address": "",
+    "lat": 38.8950982,
+    "lng": -77.0363849,
+    "phone": "3380592971",
+    "website": "https://sorrelllandsurveying.com",
+    "email": "user@domain.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Serving Eastern North Carolina with surveying needs for swampland, farmland, and job sites.",
+    "certifications": [],
+    "services": [
+      "Land surveying for construction projects"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:04",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "experienced",
+        "comprehensive services",
+        "professional",
+        "technical expertise",
+        "reliable",
+        "Eastern North Carolina"
+      ],
+      "highlights": [
+        {
+          "text": "over 40 years of combined experience",
+          "sentiment": "positive"
+        },
+        {
+          "text": "serving the citizens and communities of Eastern North Carolina",
+          "sentiment": "positive"
+        },
+        {
+          "text": "no place we won't go for our clients",
+          "sentiment": "positive"
+        },
+        {
+          "text": "wide range of software formats and specialized services",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Sorrell Land Surveying is presented as an established, experienced surveying firm with comprehensive technical capabilities and strong commitment to serving Eastern North Carolina clients across diverse project types."
+    }
+  },
+  {
+    "slug": "vyfhuis-associates-washington-dc",
+    "name": "Vyfhuis & Associates",
+    "city": "Washington",
+    "state": "DC",
+    "address": "3112 Rhode Island Avenue, NE, Washington, DC 20018",
+    "lat": 38.9245612,
+    "lng": -76.9854757,
+    "phone": "(202) 526-7702",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying firm led by DC registered surveyor Compton G. Vyfhuis, providing professional surveying services in the District of Columbia.",
+    "certifications": [],
+    "services": [
+      "Land Surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:56",
+    "sentiment": null
+  }
+]

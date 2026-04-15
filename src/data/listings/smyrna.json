@@ -1,0 +1,39 @@
+[
+  {
+    "slug": "mcclung-surveying-smyrna",
+    "name": "McClung Surveying",
+    "city": "smyrna",
+    "state": "GA",
+    "address": "4833 South Cobb Drive SE, Smyrna, GA 30080",
+    "lat": 33.883887,
+    "lng": -84.5147454,
+    "phone": "(770) 434-3383",
+    "website": "https://mcclungsurveying.com",
+    "email": "email@example.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "High-quality professional land surveying services for commercial and residential properties throughout metro Atlanta. Established in 1976. Uses state-of-the-art digital equipment including AutoCAD, robotic total stations, and GPS technology.",
+    "certifications": [],
+    "services": [
+      "ALTA/NSPS Land Title Surveys",
+      "As-Built Surveys",
+      "Elevation Certificates",
+      "Residential Mortgage Surveys",
+      "Expert Witness",
+      "Boundary Surveys",
+      "Zoning Information",
+      "Topographic Surveys",
+      "GPS surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:37",
+    "sentiment": null
+  }
+]

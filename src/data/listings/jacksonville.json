@@ -1,0 +1,364 @@
+[
+  {
+    "slug": "allen-company-jacksonville",
+    "name": "Allen & Company",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3262247,
+    "lng": -81.6579179,
+    "phone": "1776267942",
+    "website": "https://www.allen-company.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Professional surveyors and mappers providing land, aerial, and hydrographic surveying solutions across Central Florida, with nearly 40 years supporting homebuilders and developers.[8]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:00",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "strategic partner",
+        "expert knowledge",
+        "invaluable insight",
+        "project success",
+        "blessing",
+        "streamline planning"
+      ],
+      "highlights": [
+        {
+          "text": "Working with Allen & Company has been a blessing.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "the perfect strategic partner for our commercial development projects",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Their insight and advice is invaluable when it comes to our projects",
+          "sentiment": "positive"
+        },
+        {
+          "text": "It's their know-how that makes a difference when compared to the rest",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Allen & Company receives overwhelmingly positive testimonials from diverse clients praising their expertise, strategic partnership, and instrumental role in project success across construction, commercial real estate, and healthcare sectors."
+    }
+  },
+  {
+    "slug": "chinook-surveys-llc-jacksonville",
+    "name": "Chinook Surveys, LLC",
+    "city": "Jacksonville",
+    "state": "OR",
+    "address": "4241 Forest Creek Rd, Jacksonville, OR 97530",
+    "lat": 42.314411,
+    "lng": -122.965346,
+    "phone": "1036725348",
+    "website": "https://chinooksurveys.com",
+    "email": "JEFF@CHINOOKSURVEYS.COM",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying LLC in Jacksonville.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:47",
+    "sentiment": null
+  },
+  {
+    "slug": "first-choice-surveying-inc-jacksonville",
+    "name": "First Choice Surveying, Inc.",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3262247,
+    "lng": -81.6579179,
+    "phone": "314-7679707",
+    "website": "https://www.firstchoicesurveying.com",
+    "email": "customerservice@firstchoicesurveying.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Offers premium land surveying services for residential and commercial needs in Florida, using latest technology for fast turnaround, including aerial photography.[4]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:00",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "excellent service",
+        "quick turnaround",
+        "reliable",
+        "professional",
+        "accommodating",
+        "exceeding expectations"
+      ],
+      "highlights": [
+        {
+          "text": "The survey that you turned around same day yesterday was nothing shy of a miracle",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I've been in this crazy business for 48 years and your company by far is the best I have ever worked with",
+          "sentiment": "positive"
+        },
+        {
+          "text": "You notify us very promptly if you can expedite and if there will be additional fees\u2014THIS IS HUGE AND UNLIKE OTHER VENDORS",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The smoothest I've ever encountered; 10/10 recommend",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "First Choice Surveying, Inc. receives overwhelmingly positive reviews with customers consistently praising their exceptional service quality, rapid turnaround times, reliability, and superior communication compared to competitors."
+    }
+  },
+  {
+    "slug": "geopoint-surveying-jacksonville",
+    "name": "GeoPoint Surveying",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3262247,
+    "lng": -81.6579179,
+    "phone": "1663939805",
+    "website": "https://www.geopointsurvey.com",
+    "email": "geopointacademy@geopointsurvey.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Specializes in Florida land surveying using leading-edge remote sensing LiDAR surveys and subsurface utility locating.[6]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:00",
+    "sentiment": null
+  },
+  {
+    "slug": "millman-national-land-services-jacksonville",
+    "name": "Millman National Land Services",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3262247,
+    "lng": -81.6579179,
+    "phone": "800-520-1010",
+    "website": "https://millmanland.com",
+    "email": "tech@twiz.io",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Provides comprehensive ALTA Land Surveying and Zoning services, including ALTA/NSPS Surveying, Boundary Surveys, and Drone Land Surveying across Florida, from urban centers to rural areas.[1]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:00",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "friendly",
+        "can-do attitude",
+        "enthusiastic",
+        "available",
+        "impressed",
+        "peace of mind"
+      ],
+      "highlights": [
+        {
+          "text": "They're friendly, with a can-do, will-do attitude. They're always trying to make sure we're a satisfied customer.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "There is no confusion. They're available and enthusiastic about the work they do. That is peace of mind for us.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We were thoroughly impressed with Millman during the Burger King transaction and will be sure to keep Millman in mind for future transactions.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Millman National Land Services has an exceptionally positive reputation, with clients consistently praising their friendly demeanor, enthusiasm, direct service delivery, and customer-focused approach across multiple major transactions."
+    }
+  },
+  {
+    "slug": "nexgen-surveying-jacksonville",
+    "name": "NexGen Surveying",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3262247,
+    "lng": -81.6579179,
+    "phone": "5615086272",
+    "website": "https://nexgensurveying.com",
+    "email": "info@nexgensurveying.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Provides top-notch land surveying services statewide in Florida with over 40 years of experience, focusing on quality, competitive rates, and meeting deadlines.[5]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:00",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "responsive",
+        "on-time",
+        "professional",
+        "quick turnaround",
+        "reasonable pricing",
+        "excellent customer service"
+      ],
+      "highlights": [
+        {
+          "text": "Almost immediate responses to our email requests and questions. Their crews show up on time and the final Survey is always prompt",
+          "sentiment": "positive"
+        },
+        {
+          "text": "John gave me a quote within 1 hour and finished the survey in 3 day WOW! Such nice people so easy to work with",
+          "sentiment": "positive"
+        },
+        {
+          "text": "In today's busy environment, it is difficult to find a surveyor that will respond timely. With NexGen, we were extremely happy",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They are always willing to go the extra mile and are extremely professional. Their Account Representative, Mike is a huge asset",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "NexGen Surveying receives overwhelmingly positive reviews, with customers consistently praising their rapid response times, professional staff, competitive pricing, and exceptional service quality."
+    }
+  },
+  {
+    "slug": "real-res-jacksonville",
+    "name": "Real Res",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3262247,
+    "lng": -81.6579179,
+    "phone": "1776286827",
+    "website": "https://realres.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Offers property line surveys, boundary surveys, topographic surveys, elevation certificates, and ALTA/NSPS land title surveys across Florida.[7]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:00",
+    "sentiment": null
+  },
+  {
+    "slug": "southeastern-surveying-and-mapping-company-ssmc-jacksonville",
+    "name": "Southeastern Surveying and Mapping Company (SSMC)",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3262247,
+    "lng": -81.6579179,
+    "phone": "1407292858",
+    "website": "https://southeasternsurveying.com",
+    "email": "info@southeasternsurveying.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Full-service land surveying and mapping for projects throughout Florida, including boundary surveys, topographic surveys, subdivision platting, and route surveys.[3]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:00",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "reliable",
+        "exceeds expectations",
+        "trustworthy",
+        "efficient",
+        "hard working"
+      ],
+      "highlights": [
+        {
+          "text": "set the Live Structural Steel Surveying performance bar to a new pinnacle",
+          "sentiment": "positive"
+        },
+        {
+          "text": "task was completed one day ahead of schedule with no underground utilities damaged",
+          "sentiment": "positive"
+        },
+        {
+          "text": "has been nothing but a pleasure to work with",
+          "sentiment": "positive"
+        },
+        {
+          "text": "went above and beyond our expectations",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "SSMC has an exceptionally strong reputation with unanimous positive feedback from major clients praising their professionalism, reliability, efficiency, and ability to exceed project expectations."
+    }
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "arizona-surveying-inc-flagstaff",
+    "name": "Arizona Surveying, Inc.",
+    "city": "flagstaff",
+    "state": "AZ",
+    "address": "",
+    "lat": 35.1987522,
+    "lng": -111.651822,
+    "phone": "3402490179",
+    "website": "https://arizonasurveying.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full service land surveying company with primary focus on Northern Arizona, offering topographic mapping, aerial drone mapping, LiDAR, utility mapping, ALTA and boundary surveys, and construction staking statewide.",
+    "certifications": [],
+    "services": [
+      "topographic mapping",
+      "aerial drone mapping",
+      "LiDAR mapping",
+      "ALTA surveys",
+      "boundary surveys",
+      "construction staking"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:57",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "prompt",
+        "passionate",
+        "reliable",
+        "on-time",
+        "knowledgeable"
+      ],
+      "highlights": [
+        {
+          "text": "They're always one step ahead of things which makes me feel like surveying is one less thing to worry about.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Arizona Surveying was very prompt in responding to my request with a very fair price.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Excellent job to Levi and John Scott...Great Job Guys!!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "What impresses me the most is their passion for the work.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Arizona Surveying, Inc. has an exceptionally strong reputation with consistently positive reviews praising their professionalism, promptness, expertise, and passionate approach to customer service."
+    }
+  }
+]

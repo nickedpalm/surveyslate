@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "millman-national-land-services-multiple-locations-newark-jersey-city-paterson-trenton-atlantic-city",
+    "name": "Millman National Land Services",
+    "city": "multiple-locations-newark-jersey-city-paterson-trenton-atlantic-city",
+    "state": "NJ",
+    "address": "Not provided",
+    "lat": 0,
+    "lng": 0,
+    "phone": "Not provided",
+    "website": "https://millmanland.com/company-news/land-surveyor-in-new-jersey/",
+    "email": "Screenshot-2026-02-18-174842-500x383@2x.webp",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional surveying company with over 20 years of expertise specializing in ALTA/NSPS Land Title Surveys for residential and commercial developments",
+    "certifications": [],
+    "services": [
+      "ALTA/NSPS Land Title Surveys",
+      "residential surveys",
+      "commercial surveys",
+      "zoning surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:48",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "kls-surveying-inc-vernonia",
+    "name": "KLS Surveying, Inc.",
+    "city": "vernonia",
+    "state": "OR",
+    "address": "1224 Alder St, Vernonia, OR",
+    "lat": 45.857534,
+    "lng": -123.1700998,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying services based in Vernonia.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:47",
+    "sentiment": null
+  }
+]

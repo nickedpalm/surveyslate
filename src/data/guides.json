@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "land-survey-preparation-checklist",
+    "title": "Land Survey Preparation Checklist",
+    "subtitle": "Get your property ready for a professional land survey",
+    "description": "Property owners often overlook critical preparation steps before hiring a PLS surveyor. This checklist helps you gather required documents, identify boundary markers, and avoid costly delays that can push your project timeline back weeks.",
+    "bullets": [
+      "Identify which documents your PLS surveyor needs upfront",
+      "Locate existing boundary markers and stakes on your property",
+      "Clear survey areas to prevent $500+ rescheduling costs",
+      "Know the 3 survey types and which fits your project"
+    ],
+    "pdfUrl": "/guides/pdf/land-survey-preparation-checklist.pdf",
+    "category": "How-To"
+  },
+  {
+    "slug": "land-survey-rate-guide-2026",
+    "title": "Land Survey Rate Guide 2026",
+    "subtitle": "Benchmark 2026 pricing against local PLS surveyor rates.",
+    "description": "See what property owners actually pay for boundary surveys, topographic work, and subdivisions in your state. Compare costs by survey type and understand PLS rate variations.",
+    "bullets": [
+      "State-by-state breakdown of PLS surveyor hourly rates and project fees",
+      "Cost ranges for boundary, topographic, and ALTA surveys in 2026",
+      "How acreage, terrain, and complexity affect your final survey bill",
+      "Avoid surprise costs: what's typically included vs. itemized add-ons"
+    ],
+    "pdfUrl": "/guides/pdf/land-survey-rate-guide-2026.pdf",
+    "category": "Pricing"
+  },
+  {
+    "slug": "land-surveyor-vetting-guide",
+    "title": "Land Surveyor Vetting Guide",
+    "subtitle": "Essential checklist to hire the right PLS surveyor",
+    "description": "Property owners often overpay or hire unqualified surveyors. This guide reveals the specific credentials, certifications, and red flags that separate licensed professionals from costly mistakes.",
+    "bullets": [
+      "Verify PLS license status in your state's regulatory database",
+      "Identify surveyors who carry errors & omissions insurance",
+      "Spot boundary disputes before they drain your budget",
+      "Compare typical survey costs: residential vs. commercial projects"
+    ],
+    "pdfUrl": "/guides/pdf/land-surveyor-vetting-guide.pdf",
+    "category": "Vetting"
+  }
+]

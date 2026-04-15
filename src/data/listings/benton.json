@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "cataska-land-surveying-benton",
+    "name": "Cataska Land Surveying",
+    "city": "benton",
+    "state": "TN",
+    "address": "135 Poplar St., Ste. 102, Benton, TN 37307",
+    "lat": 36.0345286,
+    "lng": -88.101285,
+    "phone": "4232920174",
+    "website": "https://cataskalandsurveying.com",
+    "email": "cataska2745@outlook.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional land surveying services by Don VanHook, Jr. (TN License No. 2745), serving Tennessee counties: Polk, Bradley, east Hamilton. Licensed in multiple states including TN, GA, NC.",
+    "certifications": [],
+    "services": [
+      "professional land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:21",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "slug": "real-land-surveying-eau-claire",
+    "name": "Real Land Surveying",
+    "city": "eau-claire",
+    "state": "WI",
+    "address": "1356 International Drive, Eau Claire, WI 54701",
+    "lat": 44.7819607,
+    "lng": -91.5238486,
+    "phone": "",
+    "website": "https://www.rlswi.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Over 20 years of expertise in land surveying and construction management, including boundary surveys, topographic surveys, ALTA/NSPS land title surveys, flood zone reviews, and civil engineering in Eau Claire and Hudson.",
+    "certifications": [],
+    "services": [
+      "boundary surveys",
+      "topographic surveys",
+      "ALTA/NSPS land title surveys",
+      "construction management",
+      "flood zone reviews",
+      "civil engineering"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:35",
+    "sentiment": null
+  }
+]

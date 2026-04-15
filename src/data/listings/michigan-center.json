@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "enger-surveying-and-engineering-michigan-center",
+    "name": "Enger Surveying and Engineering",
+    "city": "michigan-center",
+    "state": "MI",
+    "address": "",
+    "lat": 42.2330918,
+    "lng": -84.3271772,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Family-owned surveying and engineering services since 1988, working with municipalities and private clients.",
+    "certifications": [],
+    "services": [
+      "land surveying",
+      "engineering"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:29",
+    "sentiment": null
+  }
+]

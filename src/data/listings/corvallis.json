@@ -1,0 +1,59 @@
+[
+  {
+    "slug": "cole-surveying-llc-corvallis",
+    "name": "Cole Surveying, LLC",
+    "city": "corvallis",
+    "state": "OR",
+    "address": "2595 NE Belvue St, Corvallis, OR 97330",
+    "lat": 44.593612,
+    "lng": -123.2490052,
+    "phone": "1776221562",
+    "website": "https://www.colesurveying.com",
+    "email": "administrator@colesurveying.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying firm in Corvallis.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:47",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "accurate",
+        "responsive",
+        "reliable",
+        "trustworthy",
+        "quality work"
+      ],
+      "highlights": [
+        {
+          "text": "Their professionalism, expertise, and accuracy is best in class",
+          "sentiment": "positive"
+        },
+        {
+          "text": "one of the most accurate, professional and trustworthy companies in their field",
+          "sentiment": "positive"
+        },
+        {
+          "text": "always a great experience. They are always responsive and do quality work",
+          "sentiment": "positive"
+        },
+        {
+          "text": "focus on solutions, not excuses",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Cole Surveying has an exceptionally positive reputation built on decades of reliable partnerships, with clients consistently praising their accuracy, professionalism, responsiveness, and quality work."
+    }
+  }
+]

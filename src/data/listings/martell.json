@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "allen-surveying-services-llc-martell",
+    "name": "Allen Surveying Services LLC",
+    "city": "martell",
+    "state": "NE",
+    "address": "2450 W. Martell Rd., Martell, NE 68404",
+    "lat": 40.6396345,
+    "lng": -96.7568367,
+    "phone": "402-466-4366",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying services led by Derek A. Beenblossom (#570), licensed in Nebraska.",
+    "certifications": [],
+    "services": [
+      "Land Surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:36",
+    "sentiment": null
+  }
+]

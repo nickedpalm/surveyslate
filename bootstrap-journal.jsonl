@@ -1,0 +1,26 @@
+{"ts": "2026-04-15T19:59:14+00:00", "step": "local.scaffold", "phase": 1, "action": "complete", "result": "created", "duration_ms": 6760, "resource_id": "/home/nick/tools/directory-factory/verticals/surveyslate/vertical.json"}
+{"ts": "2026-04-15T19:59:15+00:00", "step": "local.template_sync", "phase": 1, "action": "complete", "result": "created", "duration_ms": 54, "resource_id": "/home/nick/tools/directory-factory/verticals/surveyslate"}
+{"ts": "2026-04-15T19:59:15+00:00", "step": "local.colors", "phase": 1, "action": "complete", "result": "linked", "duration_ms": 0, "resource_id": "/home/nick/tools/directory-factory/verticals/surveyslate/colors.json"}
+{"ts": "2026-04-15T19:59:16+00:00", "step": "local.logos", "phase": 1, "action": "complete", "result": "created", "duration_ms": 6, "resource_id": "/home/nick/tools/directory-factory/verticals/surveyslate/public"}
+{"ts": "2026-04-15T20:03:56+00:00", "step": "content.scrape", "phase": 1, "action": "complete", "result": "created", "duration_ms": 280472, "resource_id": "/home/nick/tools/directory-factory/verticals/surveyslate/pipeline.db"}
+{"ts": "2026-04-15T20:40:14+00:00", "step": "content.generate", "phase": 1, "action": "complete", "result": "created", "duration_ms": 2177653, "resource_id": "/home/nick/tools/directory-factory/verticals/surveyslate/src/content"}
+{"ts": "2026-04-15T20:41:05+00:00", "step": "content.faqs", "phase": 1, "action": "complete", "result": "created", "duration_ms": 49753, "resource_id": "/home/nick/tools/directory-factory/verticals/surveyslate/src/data/faqs.json"}
+{"ts": "2026-04-15T20:41:06+00:00", "step": "content.interlink", "phase": 1, "action": "complete", "result": "created", "duration_ms": 1150, "resource_id": "/home/nick/tools/directory-factory/verticals/surveyslate/.interlink-stamp"}
+{"ts": "2026-04-15T21:03:38+00:00", "step": "content.enrich", "phase": 1, "action": "complete", "result": "created", "duration_ms": 1351299, "resource_id": "/home/nick/tools/directory-factory/verticals/surveyslate/src/data/listings"}
+{"ts": "2026-04-15T21:03:45+00:00", "step": "content.lead_magnets", "phase": 1, "action": "complete", "result": "created", "duration_ms": 6716, "resource_id": "/home/nick/tools/directory-factory/verticals/surveyslate/src/data/guides.json"}
+{"ts": "2026-04-15T21:03:46+00:00", "step": "github.repo", "phase": 2, "action": "complete", "result": "linked", "duration_ms": 650, "resource_id": "nickedpalm/surveyslate"}
+{"ts": "2026-04-15T21:03:49+00:00", "step": "cf.pages_project", "phase": 2, "action": "complete", "result": "linked", "duration_ms": 2987, "resource_id": "surveyslate"}
+{"ts": "2026-04-15T21:03:51+00:00", "step": "cf.d1_db", "phase": 2, "action": "complete", "result": "created", "duration_ms": 1390, "resource_id": "7ba8af47-2685-4fc7-8683-2c2a98c965c3"}
+{"ts": "2026-04-15T21:03:53+00:00", "step": "cf.r2_bucket", "phase": 2, "action": "complete", "result": "created", "duration_ms": 1564, "resource_id": "surveyslate-photos"}
+{"ts": "2026-04-15T21:03:54+00:00", "step": "cf.dns_records", "phase": 2, "action": "complete", "result": "linked", "duration_ms": 419, "resource_id": "fa43ac1c3453184da2d0dc21f2e45eaf"}
+{"ts": "2026-04-15T21:03:55+00:00", "step": "cf.email_routing", "phase": 2, "action": "complete", "result": "linked", "duration_ms": 486, "resource_id": "99b2bfc83d68d51d70c4c08762f5b315"}
+{"ts": "2026-04-15T21:03:56+00:00", "step": "cf.turnstile", "phase": 3, "action": "complete", "result": "created", "duration_ms": 767, "resource_id": "0x4AAAAAAC-GhH4ByqECBS_1"}
+{"ts": "2026-04-15T21:04:15+00:00", "step": "d1.migrations", "phase": 4, "action": "complete", "result": "created", "duration_ms": 18863, "resource_id": "directory_surveyslate"}
+{"ts": "2026-04-15T21:04:16+00:00", "step": "listmonk.list", "phase": 4, "action": "complete", "result": "failed", "duration_ms": 133, "error": "Listmonk API error on GET /api/lists: 403 {\"message\":\"invalid API credentials\"}\n"}
+{"ts": "2026-04-15T23:20:14+00:00", "step": "listmonk.list", "phase": 4, "action": "complete", "result": "failed", "duration_ms": 78, "error": "Listmonk API error on GET /api/lists: 403 {\"message\":\"invalid API credentials\"}\n"}
+{"ts": "2026-04-15T23:20:53+00:00", "step": "listmonk.api_user", "phase": 4, "action": "complete", "result": "created", "duration_ms": 610, "resource_id": "surveyslate-api"}
+{"ts": "2026-04-15T23:20:53+00:00", "step": "listmonk.list", "phase": 4, "action": "complete", "result": "linked", "duration_ms": 256, "resource_id": "16"}
+{"ts": "2026-04-15T23:20:54+00:00", "step": "listmonk.templates", "phase": 4, "action": "complete", "result": "created", "duration_ms": 163, "resource_id": "23,24,25"}
+{"ts": "2026-04-15T23:21:02+00:00", "step": "stripe.sync", "phase": 4, "action": "complete", "result": "created", "duration_ms": 7579, "resource_id": "prod_ULJM25iQUatSuv"}
+{"ts": "2026-04-15T23:21:03+00:00", "step": "stripe.webhook", "phase": 4, "action": "complete", "result": "created", "duration_ms": 596, "resource_id": "we_1TMcjyCIgRyRDQ2PCAho8Ydc"}
+{"ts": "2026-04-15T23:21:04+00:00", "step": "cf.env_vars", "phase": 4, "action": "complete", "result": "created", "duration_ms": 753, "resource_id": "surveyslate"}

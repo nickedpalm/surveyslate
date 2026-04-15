@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "the-thrasher-group-north-carolina-gastonia",
+    "name": "The Thrasher Group North Carolina",
+    "city": "gastonia",
+    "state": "NC",
+    "address": "",
+    "lat": 35.2622654,
+    "lng": -81.1838186,
+    "phone": "1704864220",
+    "website": "https://www.thethrashergroupnc.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Multi-disciplinary consulting engineering and field services firm with offices in Gastonia and Kings Mountain.",
+    "certifications": [],
+    "services": [
+      "Engineering",
+      "Surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:04",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "david-loomis-newport",
+    "name": "David Loomis",
+    "city": "newport",
+    "state": "OR",
+    "address": "",
+    "lat": 44.636755,
+    "lng": -124.053442,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Solo land surveyor professional in Newport.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:47",
+    "sentiment": null
+  }
+]

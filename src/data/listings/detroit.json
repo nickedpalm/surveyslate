@@ -1,0 +1,213 @@
+[
+  {
+    "slug": "advanced-geomatics-detroit",
+    "name": "Advanced Geomatics",
+    "city": "Detroit",
+    "state": "MI",
+    "address": "",
+    "lat": 42.3315509,
+    "lng": -83.0466403,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional surveying services in central Michigan region.",
+    "certifications": [],
+    "services": [
+      "land surveying",
+      "geomatics"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:29",
+    "sentiment": null
+  },
+  {
+    "slug": "alpine-engineering-inc-detroit",
+    "name": "Alpine Engineering, Inc.",
+    "city": "Detroit",
+    "state": "MI",
+    "address": "46892 West Road, Suite 109",
+    "lat": 42.3315509,
+    "lng": -83.0466403,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Engineering and surveying services in central Michigan.",
+    "certifications": [],
+    "services": [
+      "surveying",
+      "engineering"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:29",
+    "sentiment": null
+  },
+  {
+    "slug": "boss-engineering-surveying-detroit",
+    "name": "Boss Engineering & Surveying",
+    "city": "Detroit",
+    "state": "MI",
+    "address": "3121 East Grand River Avenue",
+    "lat": 42.7421112,
+    "lng": -84.5069802,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Engineering and land surveying services.",
+    "certifications": [],
+    "services": [
+      "land surveying",
+      "engineering"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:29",
+    "sentiment": null
+  },
+  {
+    "slug": "rowe-professional-services-company-detroit",
+    "name": "ROWE Professional Services Company",
+    "city": "Detroit",
+    "state": "MI",
+    "address": "",
+    "lat": 42.3315509,
+    "lng": -83.0466403,
+    "phone": "1715715425",
+    "website": "https://www.rowepsc.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional consulting firm since 1962 providing infrastructure and development projects including surveying for public, private, governmental, tribal, and not-for-profit clients.",
+    "certifications": [],
+    "services": [
+      "land surveying",
+      "infrastructure development"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:29",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "growth opportunities",
+        "employee development",
+        "safety commitment",
+        "respectful culture",
+        "responsive staff",
+        "career advancement"
+      ],
+      "highlights": [
+        {
+          "text": "The sky is the limit! Everyone is accessible for questions, and they are all willing to help out.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "ROWE's commitment to safety, quality, and their people make ROWE the best.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I know when I hand something off to the staff at ROWE, it gets done. Rarely is a follow-up necessary.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They will bend over backwards to be sure we have the resources we need.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "ROWE Professional Services Company receives overwhelmingly positive sentiment across all reviews, praised for employee development opportunities, inclusive culture, safety commitment, and exceptional client responsiveness."
+    }
+  },
+  {
+    "slug": "stephenson-land-surveying-detroit",
+    "name": "Stephenson Land Surveying",
+    "city": "Detroit",
+    "state": "MI",
+    "address": "",
+    "lat": 42.3315509,
+    "lng": -83.0466403,
+    "phone": "",
+    "website": "https://www.stephensonls.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying services in over 50 cities/villages in Michigan and Indiana, established in 1990; also offers licensed drone pilot services.",
+    "certifications": [],
+    "services": [
+      "land surveying",
+      "drone surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:29",
+    "sentiment": null
+  },
+  {
+    "slug": "wightman-detroit",
+    "name": "Wightman",
+    "city": "Detroit",
+    "state": "MI",
+    "address": "",
+    "lat": 42.3315509,
+    "lng": -83.0466403,
+    "phone": "",
+    "website": "https://gowightman.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Survey services by respected licensed surveyors in Michigan, Indiana, Ohio, and Texas; pre-qualified by Michigan Department of Transportation for road design survey work.",
+    "certifications": [],
+    "services": [
+      "boundary surveys",
+      "topographic surveys",
+      "road design surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:29",
+    "sentiment": null
+  }
+]

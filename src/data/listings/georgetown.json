@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "texas-land-surveying-inc-georgetown",
+    "name": "Texas Land Surveying, Inc.",
+    "city": "georgetown",
+    "state": "TX",
+    "address": "3613 Williams Drive, Suite 903, Georgetown, Texas 78628",
+    "lat": 30.6370152,
+    "lng": -97.6775634,
+    "phone": "Not provided",
+    "website": "https://www.texas-ls.com",
+    "email": "NICOLE@TEXAS-LS.COM",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying services provider serving the Central Texas Region",
+    "certifications": [],
+    "services": [
+      "Land surveying services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 19:59:52",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "bayou-benchmark-surveying-llc-youngsville",
+    "name": "Bayou Benchmark Surveying, LLC",
+    "city": "youngsville",
+    "state": "LA",
+    "address": "139 Sugarcreek Dr., Youngsville, LA 70592",
+    "lat": 30.0996471,
+    "lng": -91.9901206,
+    "phone": "(337) 330-2373",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying services in Youngsville near Lafayette.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:01",
+    "sentiment": null
+  }
+]

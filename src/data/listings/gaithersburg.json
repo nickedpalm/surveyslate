@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "thomas-a-maddox-land-surveyor-gaithersburg",
+    "name": "Thomas A. Maddox Land Surveyor",
+    "city": "gaithersburg",
+    "state": "DC",
+    "address": "8933 Shady Grove Court, Gaithersburg, MD 20877",
+    "lat": 0,
+    "lng": 0,
+    "phone": "(301) 984-5804",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Solo practitioner DC registered land surveyor offering boundary and other surveying services in the DC area.",
+    "certifications": [],
+    "services": [
+      "Boundary Surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:56",
+    "sentiment": null
+  }
+]

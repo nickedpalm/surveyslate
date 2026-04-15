@@ -1,0 +1,153 @@
+generated_at: '2026-04-15T23:21:04+00:00'
+refs:
+  cf.d1_db:
+    extra:
+      binding_name: LEADS_DB
+    id: 7ba8af47-2685-4fc7-8683-2c2a98c965c3
+    kind: cf.d1_db
+    name: directory_surveyslate
+  cf.dns_records:
+    extra:
+      content: surveyslate.pages.dev
+      zone_id: 99b2bfc83d68d51d70c4c08762f5b315
+    id: fa43ac1c3453184da2d0dc21f2e45eaf
+    kind: cf.dns_records
+    name: surveyslate.com
+  cf.email_routing:
+    extra:
+      enabled: true
+    id: 99b2bfc83d68d51d70c4c08762f5b315
+    kind: cf.email_routing
+    name: surveyslate.com
+  cf.env_vars:
+    extra:
+      count: '23'
+    id: surveyslate
+    kind: cf.env_vars
+    name: surveyslate
+  cf.pages_project:
+    extra:
+      subdomain: surveyslate.pages.dev
+    id: surveyslate
+    kind: cf.pages_project
+    name: surveyslate
+  cf.r2_bucket:
+    extra:
+      binding_name: PHOTOS
+    id: surveyslate-photos
+    kind: cf.r2_bucket
+    name: surveyslate-photos
+  cf.turnstile:
+    extra:
+      secret: 0x4AAAAAAC-GhMDGYlkAvB6IkdBtY3yZrqc
+    id: 0x4AAAAAAC-GhH4ByqECBS_1
+    kind: cf.turnstile
+    name: surveyslate
+  content.enrich:
+    extra:
+      exported: 263
+    id: /home/nick/tools/directory-factory/verticals/surveyslate/src/data/listings
+    kind: content.enrich
+    name: surveyslate
+  content.faqs:
+    extra:
+      count: 12
+    id: /home/nick/tools/directory-factory/verticals/surveyslate/src/data/faqs.json
+    kind: content.faqs
+    name: surveyslate
+  content.generate:
+    extra:
+      blog_posts: 27
+      cities: 68
+      mdx_files_sanitized: 0
+    id: /home/nick/tools/directory-factory/verticals/surveyslate/src/content
+    kind: content.generate
+    name: surveyslate
+  content.interlink:
+    extra:
+      links_added: '89'
+    id: /home/nick/tools/directory-factory/verticals/surveyslate/.interlink-stamp
+    kind: content.interlink
+    name: surveyslate
+  content.lead_magnets:
+    extra:
+      count: 3
+    id: /home/nick/tools/directory-factory/verticals/surveyslate/src/data/guides.json
+    kind: content.lead_magnets
+    name: surveyslate
+  content.scrape:
+    extra:
+      count: 263
+    id: /home/nick/tools/directory-factory/verticals/surveyslate/pipeline.db
+    kind: content.scrape
+    name: surveyslate
+  d1.migrations:
+    extra:
+      applied: 8
+    id: directory_surveyslate
+    kind: d1.migrations
+    name: surveyslate
+  github.repo:
+    extra: {}
+    id: nickedpalm/surveyslate
+    kind: github.repo
+    name: nickedpalm/surveyslate
+  listmonk.api_user:
+    extra:
+      password: TzRbnJjqy2xaKQn_pE3gUlrihkhHBUm5
+    id: surveyslate-api
+    kind: listmonk.api_user
+    name: surveyslate-api
+  listmonk.list:
+    extra: {}
+    id: '16'
+    kind: listmonk.list
+    name: SurveySlate Newsletter
+  listmonk.templates:
+    extra:
+      guide_delivery: '25'
+      lead_notify: '24'
+      magic_link: '23'
+    id: 23,24,25
+    kind: listmonk.templates
+    name: surveyslate
+  local.colors:
+    extra:
+      primary: '#1fe077'
+    id: /home/nick/tools/directory-factory/verticals/surveyslate/colors.json
+    kind: local.colors
+    name: surveyslate
+  local.logos:
+    extra:
+      copied: 11
+      total: 11
+    id: /home/nick/tools/directory-factory/verticals/surveyslate/public
+    kind: local.logos
+    name: surveyslate
+  local.scaffold:
+    extra:
+      domain: surveyslate.com
+    id: /home/nick/tools/directory-factory/verticals/surveyslate/vertical.json
+    kind: local.scaffold
+    name: surveyslate
+  local.template_sync:
+    extra:
+      count: '18'
+      synced: src/components,src/pages,src/layouts,src/utils,src/lib,src/scripts,src/types,src/assets/styles,src/assets/fonts,_functions,migrations,src/config.ts,src/env.d.ts,src/types.d.ts,src/navigation.ts,astro.config.ts,tailwind.config.js,tsconfig.json
+    id: /home/nick/tools/directory-factory/verticals/surveyslate
+    kind: local.template_sync
+    name: surveyslate
+  stripe.sync:
+    extra:
+      city_pro_product_id: prod_ULJMFvwktMxote
+      featured_product_id: prod_ULJM25iQUatSuv
+    id: prod_ULJM25iQUatSuv
+    kind: stripe.sync
+    name: surveyslate
+  stripe.webhook:
+    extra:
+      secret: whsec_ojlq6sOMhdBKpjBAxzLCRYkwpXMXGNsW
+      url: https://surveyslate.com/api/stripe-webhook
+    id: we_1TMcjyCIgRyRDQ2PCAho8Ydc
+    kind: stripe.webhook
+    name: surveyslate

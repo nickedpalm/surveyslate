@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "wide-open-land-surveying-newnan",
+    "name": "Wide Open Land Surveying",
+    "city": "newnan",
+    "state": "GA",
+    "address": "",
+    "lat": 33.3806716,
+    "lng": -84.7996573,
+    "phone": "(678) 633-5685",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Commercial and residential surveying services",
+    "certifications": [],
+    "services": [
+      "commercial surveying",
+      "residential surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:37",
+    "sentiment": null
+  }
+]

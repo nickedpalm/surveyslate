@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "meridian-surveying-engineering-inc-san-rafael",
+    "name": "Meridian Surveying Engineering, Inc.",
+    "city": "san-rafael",
+    "state": "CA",
+    "address": "",
+    "lat": 37.9747795,
+    "lng": -122.5316686,
+    "phone": "1776286614",
+    "website": "https://meridiansurvey.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional surveying, planning, and engineering support services since 1982 serving San Francisco Bay Area including Marin, San Francisco, Santa Rosa; CA State Certified Small Business Enterprise specializing in residential boundary, easements, disputes, topographic mapping.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 19:59:20",
+    "sentiment": null
+  }
+]

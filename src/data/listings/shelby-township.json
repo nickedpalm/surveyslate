@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "land-development-services-of-michigan-llc-shelby-township",
+    "name": "Land Development Services of Michigan L.L.C.",
+    "city": "shelby-township",
+    "state": "MI",
+    "address": "48689 Hayes Road, Shelby Township, MI 48315",
+    "lat": 42.6539713,
+    "lng": -82.9744408,
+    "phone": "586-685-6200",
+    "website": "https://ldsofmichigan.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full-service land surveying and development services in Southeastern Michigan, including Metro Detroit, Macomb, Oakland, St. Clair, Wayne, and Lapeer counties.",
+    "certifications": [],
+    "services": [
+      "land surveying",
+      "land development"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:29",
+    "sentiment": null
+  }
+]

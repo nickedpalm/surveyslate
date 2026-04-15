@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "statewide-land-surveying-inc-gresham",
+    "name": "Statewide Land Surveying Inc.",
+    "city": "gresham",
+    "state": "OR",
+    "address": "43 NW Ava Ave, Gresham, OR 97030",
+    "lat": 45.497839,
+    "lng": -122.4370491,
+    "phone": "1691512613",
+    "website": "https://www.statewidesurveying.com",
+    "email": "survey@statewidesurveying.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Statewide land surveying services operating from Gresham.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:47",
+    "sentiment": null
+  }
+]

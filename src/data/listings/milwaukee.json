@@ -1,0 +1,61 @@
+[
+  {
+    "slug": "land-surveys-inc-milwaukee",
+    "name": "Land Surveys Inc.",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "",
+    "lat": 43.0386475,
+    "lng": -87.9090751,
+    "phone": "0974844134",
+    "website": "https://www.landsurveysinc.com",
+    "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Premier land surveying services with dedication to precision, accuracy, and a wide range of tailored surveying services.",
+    "certifications": [],
+    "services": [
+      "land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:35",
+    "sentiment": null
+  },
+  {
+    "slug": "wisconsin-land-surveying-milwaukee",
+    "name": "Wisconsin Land Surveying",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "",
+    "lat": 43.0386475,
+    "lng": -87.9090751,
+    "phone": "(920) 410-7744",
+    "website": "https://wisconsinlandsurveying.com",
+    "email": "andy@wisconsinlandsurveying.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides professional land surveying and construction staking services for over 20 years using the latest technology.",
+    "certifications": [],
+    "services": [
+      "land surveying",
+      "construction staking"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:35",
+    "sentiment": null
+  }
+]

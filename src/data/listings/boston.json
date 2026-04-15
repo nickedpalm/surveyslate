@@ -1,0 +1,147 @@
+[
+  {
+    "slug": "boston-land-survey-and-engineering-boston",
+    "name": "Boston Land Survey and Engineering",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3588336,
+    "lng": -71.0578303,
+    "phone": "(617) 959-0025",
+    "website": "https://site-t0agenozb.godaddysites.com",
+    "email": "bostonlandsurvey@gmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying and engineering with over 20 years experience, ensuring accuracy in boundary surveys and plot plans for all property types.",
+    "certifications": [],
+    "services": [
+      "Boundary Surveys",
+      "Plot Plans"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:58",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "satisfied clients",
+        "professional",
+        "reliable",
+        "experienced"
+      ],
+      "highlights": [
+        {
+          "text": "Hear From Our Satisfied Clients",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Boston Land Survey and Engineering maintains a positive reputation with satisfied clients, though specific review details are not provided in the submitted content."
+    }
+  },
+  {
+    "slug": "massachusetts-survey-consultants-boston",
+    "name": "Massachusetts Survey Consultants",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3588336,
+    "lng": -71.0578303,
+    "phone": "(617) 899-0703",
+    "website": "https://www.massachusettssurvey.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full-service commercial and residential land surveying for homeowners, architects, builders, developers, attorneys, and engineers. Services supervised by licensed surveyor with 24+ years experience. Serves Greater Boston, MetroWest, and North Shore.",
+    "certifications": [],
+    "services": [
+      "ALTA/ACSM Land Title Surveys",
+      "Topographic Surveys",
+      "Mortgage Inspection Plans",
+      "Certified Plot Plans",
+      "Property Line Lot Stake Outs",
+      "Construction Surveys",
+      "FEMA Elevation Certificates"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:58",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "competitive pricing",
+        "prompt service",
+        "reliable",
+        "friendly",
+        "efficient"
+      ],
+      "highlights": [
+        {
+          "text": "I would absolutely hire him again and recommend him to anyone in need of an honest and dependable surveyor.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Excellent service, professionalism, turn-around, communication, and really fair competitive pricing.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Tom was great, did the survey faster than anyone else could and for less money than anyone else would.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Very patient and immediately made the necessary modifications...at no additional charge.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Massachusetts Survey Consultants has an overwhelmingly positive reputation with consistent praise for competitive pricing, prompt professional service, and personable staff who exceed customer expectations."
+    }
+  },
+  {
+    "slug": "nitsch-engineering-boston",
+    "name": "Nitsch Engineering",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3588336,
+    "lng": -71.0578303,
+    "phone": "",
+    "website": "https://www.nitscheng.com/service/land-surveying/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Engineering firm with licensed Massachusetts surveyors specializing in various survey types for property, infrastructure, and construction projects.",
+    "certifications": [],
+    "services": [
+      "Property Line Retracements",
+      "Topographic and Utility Surveys",
+      "ALTA/NSPS Title Insurance",
+      "Laser Scanning",
+      "Drone Surveys",
+      "Construction Layout"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:58",
+    "sentiment": null
+  }
+]

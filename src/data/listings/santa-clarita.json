@@ -1,0 +1,59 @@
+[
+  {
+    "slug": "cp-land-surveying-santa-clarita",
+    "name": "C.P. Land Surveying",
+    "city": "santa-clarita",
+    "state": "CA",
+    "address": "",
+    "lat": 34.4127963,
+    "lng": -118.5538088,
+    "phone": "2147483647",
+    "website": "https://cplandsurveying.com",
+    "email": "info@cplandsurveying.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Family-owned business offering boundary, topographic, ALTA, and construction surveys across Los Angeles, Bay Area, Santa Clarita, and other California communities with over 50 years of experience.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 19:59:20",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "efficient",
+        "responsive",
+        "professional",
+        "fast turnaround",
+        "thorough",
+        "competitive pricing"
+      ],
+      "highlights": [
+        {
+          "text": "They turned around our work in half the time as everyone else, did a thorough and accurate job",
+          "sentiment": "positive"
+        },
+        {
+          "text": "CP Land Surveying was very efficient & professional...Excellent!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Their Customer service is super. I highly recommend them.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Prompt and efficient. A pleasure to work with.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "C.P. Land Surveying has an exceptionally positive reputation with customers consistently praising their efficiency, professionalism, responsiveness, and competitive pricing."
+    }
+  }
+]

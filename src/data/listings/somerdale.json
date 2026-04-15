@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "donovan-surveyors-inc-somerdale",
+    "name": "Donovan Surveyors, Inc.",
+    "city": "somerdale",
+    "state": "NJ",
+    "address": "Not provided",
+    "lat": 39.8440027,
+    "lng": -75.0226691,
+    "phone": "Not provided",
+    "website": "https://donovansurveyorsnj.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "State-licensed property surveying company and planner with over 50 years of experience serving land owners and developers, offering mortgage, title, topography, flood, and construction surveying",
+    "certifications": [],
+    "services": [
+      "general land surveying",
+      "mortgage surveying",
+      "title surveying",
+      "topography surveying",
+      "flood surveying",
+      "construction surveying",
+      "elevation surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:48",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "quick service",
+        "reasonable pricing",
+        "easy to work with",
+        "professional team",
+        "reliable",
+        "responsive"
+      ],
+      "highlights": [
+        {
+          "text": "Absolutely amazing outcome. Pricing is very reasonable and highly recommended.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Was able to schedule and get report for my property survey within a week.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They were easy to work with and made sure all our needs were taken care of.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Came out and got it done quickly and reasonably priced.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Donovan Surveyors has an excellent reputation with consistently positive reviews praising their quick turnaround, reasonable pricing, professional team, and customer-focused service."
+    }
+  }
+]

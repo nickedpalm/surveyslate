@@ -1,0 +1,214 @@
+[
+  {
+    "slug": "colorado-engineering-surveying-inc-denver",
+    "name": "Colorado Engineering & Surveying, Inc.",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392364,
+    "lng": -104.984862,
+    "phone": "1776286356",
+    "website": "https://www.copls.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Providing quality professional land surveys and ILCs since 1972.",
+    "certifications": [],
+    "services": [
+      "land surveys",
+      "ILCs"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:48",
+    "sentiment": null
+  },
+  {
+    "slug": "colorado-ilc-services-denver",
+    "name": "Colorado ILC Services",
+    "city": "Denver",
+    "state": "CO",
+    "address": "3000 Lawrence St. Ste.111, Denver, CO 80205",
+    "lat": 39.7392364,
+    "lng": -104.984862,
+    "phone": "1767375005",
+    "website": "https://www.coloradoilc.com",
+    "email": "info@coloradoilc.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Colorado land surveying firm specializing in improvement location certificates (ILC) for residential and commercial properties, flood elevation certificates, and other surveying services across the Front Range from Pueblo to Ft. Collins.",
+    "certifications": [],
+    "services": [
+      "improvement location certificates",
+      "flood elevation certificates",
+      "land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:48",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "improvement location certificates",
+        "flood elevation certificates",
+        "land surveying"
+      ],
+      "highlights": [
+        {
+          "text": "Have utilized Colorado ILC Services for many years.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Colorado land surveying firm specializing in improvement location certificates (ILC) for residential and commercial properties, flood elevation certificates, and other surveying services across the Fr"
+    }
+  },
+  {
+    "slug": "denver-land-surveying-denver",
+    "name": "Denver Land Surveying",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392364,
+    "lng": -104.984862,
+    "phone": "(720) 513-9667",
+    "website": "https://denverlandsurveying.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying services in Denver, CO and Denver County area.",
+    "certifications": [],
+    "services": [
+      "land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:48",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "good neighbors",
+        "fences",
+        "boundaries",
+        "property lines",
+        "surveying"
+      ],
+      "highlights": [
+        {
+          "text": "Good Fences Make Good Neighbors",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Limited review data suggests positive sentiment with the classic reference implying quality boundary work that promotes good relationships between property owners."
+    }
+  },
+  {
+    "slug": "ehrhart-land-surveying-denver",
+    "name": "Ehrhart Land Surveying",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392364,
+    "lng": -104.984862,
+    "phone": "303-828-3340",
+    "website": "https://www.coloradols.com",
+    "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional land surveying services throughout the Rocky Mountain region.",
+    "certifications": [],
+    "services": [
+      "land surveying",
+      "geodesy"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:48",
+    "sentiment": null
+  },
+  {
+    "slug": "flatirons-inc-denver",
+    "name": "Flatirons, Inc.",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392364,
+    "lng": -104.984862,
+    "phone": "6666666667",
+    "website": "https://flatironsinc.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Premier provider of comprehensive land surveying services to public and private sector clients in Colorado since 1985.",
+    "certifications": [],
+    "services": [
+      "land surveying",
+      "comprehensive surveying services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:48",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "reliable",
+        "high quality",
+        "responsive",
+        "professional",
+        "dependable",
+        "accurate"
+      ],
+      "highlights": [
+        {
+          "text": "For over 30 years Flatirons Survey has been the only survey company I will work with.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They are super dependable, friendly, and easy to work with.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Flatirons is the best; they're who we call.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I recommend this company without any hesitation, or reservations whatsoever.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Flatirons, Inc. enjoys overwhelmingly positive sentiment with decades-long client relationships built on reliability, precision, professionalism, and consistently high-quality survey work."
+    }
+  }
+]

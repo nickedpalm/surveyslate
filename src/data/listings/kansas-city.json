@@ -1,0 +1,60 @@
+[
+  {
+    "slug": "millman-national-land-services-kansas-city",
+    "name": "Millman National Land Services",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "Not provided",
+    "lat": 39.100105,
+    "lng": -94.5781416,
+    "phone": "Not provided",
+    "website": "https://millmanland.com",
+    "email": "tech@twiz.io",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides ALTA/NSPS Land Title Surveys, property boundary surveys, and development planning with over 20 years of experience. Serves Kansas City, St. Louis, Springfield, Columbia, and Independence.",
+    "certifications": [],
+    "services": [
+      "ALTA/NSPS Land Title Surveys",
+      "Property boundary surveys",
+      "Development planning",
+      "Agricultural land surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:39",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "friendly",
+        "can-do attitude",
+        "enthusiastic",
+        "available",
+        "peace of mind",
+        "impressed"
+      ],
+      "highlights": [
+        {
+          "text": "They're friendly, with a can-do, will-do attitude. They're always trying to make sure we're a satisfied customer.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They're available and enthusiastic about the work they do. That is peace of mind for us.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We were thoroughly impressed with Millman during the Burger King transaction and will be sure to keep Millman in mind for future transactions.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Millman National Land Services has an overwhelmingly positive reputation, praised by major clients for friendly service, reliable staff, professionalism, and customer satisfaction across multiple large-scale projects."
+    }
+  }
+]

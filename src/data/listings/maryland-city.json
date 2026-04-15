@@ -1,0 +1,113 @@
+[
+  {
+    "slug": "cub-survey-group-llc-maryland-city",
+    "name": "Cub Survey Group LLC",
+    "city": "maryland-city",
+    "state": "MD",
+    "address": "",
+    "lat": 39.0920531,
+    "lng": -76.8177498,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 5.0,
+    "review_count": 3,
+    "description": "Provides land surveying in Maryland City.",
+    "certifications": [],
+    "services": [
+      "land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:28",
+    "sentiment": {
+      "label": "positive",
+      "score": 1.0,
+      "keywords": [
+        "land surveying"
+      ],
+      "highlights": [],
+      "summary": "Provides land surveying in Maryland City."
+    }
+  },
+  {
+    "slug": "messick-group-inc-maryland-city",
+    "name": "Messick Group, Inc.",
+    "city": "maryland-city",
+    "state": "MD",
+    "address": "",
+    "lat": 39.0920531,
+    "lng": -76.8177498,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.5,
+    "review_count": 11,
+    "description": "Land surveying company serving Maryland City.",
+    "certifications": [],
+    "services": [
+      "land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:28",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.88,
+      "keywords": [
+        "land surveying"
+      ],
+      "highlights": [],
+      "summary": "Land surveying company serving Maryland City."
+    }
+  },
+  {
+    "slug": "wl-meekins-inc-land-surveyors-maryland-city",
+    "name": "WL Meekins Inc Land Surveyors",
+    "city": "maryland-city",
+    "state": "MD",
+    "address": "",
+    "lat": 39.0920531,
+    "lng": -76.8177498,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.9,
+    "review_count": 93,
+    "description": "Land surveying services in Maryland City area.",
+    "certifications": [],
+    "services": [
+      "land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:28",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "land surveying"
+      ],
+      "highlights": [],
+      "summary": "Land surveying services in Maryland City area."
+    }
+  }
+]

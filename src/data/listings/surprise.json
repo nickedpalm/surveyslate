@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "black-mountain-surveying-llc-surprise",
+    "name": "Black Mountain Surveying LLC",
+    "city": "surprise",
+    "state": "AZ",
+    "address": "",
+    "lat": 33.629247,
+    "lng": -112.3681428,
+    "phone": "623-266-0402",
+    "website": "https://www.blackmountainsurveying.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional surveying company providing land surveying services across Arizona with over 40 years of experience, including residential topographic and boundary surveys for commercial needs.",
+    "certifications": [],
+    "services": [
+      "boundary surveying",
+      "topographical surveys",
+      "residential surveys",
+      "commercial surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:57",
+    "sentiment": null
+  }
+]

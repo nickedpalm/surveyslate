@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "gordon-land-surveying-development-nine-mile-falls",
+    "name": "Gordon Land Surveying & Development",
+    "city": "nine-mile-falls",
+    "state": "WA",
+    "address": "17010 N. Tamarac Lane, Nine Mile Falls, WA 99026",
+    "lat": 47.7767798,
+    "lng": -117.5466863,
+    "phone": "509-768-5987",
+    "website": "",
+    "email": "gordonsurveying@gmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying and development services in Stevens County area.",
+    "certifications": [],
+    "services": [
+      "Land Surveying",
+      "Development"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:02:06",
+    "sentiment": null
+  }
+]

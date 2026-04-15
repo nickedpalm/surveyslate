@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "mm-surveying-co-inc-lincolnwood",
+    "name": "MM Surveying Co., Inc.",
+    "city": "lincolnwood",
+    "state": "IL",
+    "address": "7100 N Tripp Ave, Lincolnwood, IL 60712",
+    "lat": 42.0055985,
+    "lng": -87.735572,
+    "phone": "1776242737",
+    "website": "https://www.mmsurveyingchicago.com",
+    "email": "Info@MMSurveyingChicago.Com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveyor services in Lincolnwood, IL.",
+    "certifications": [],
+    "services": [
+      "land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:11",
+    "sentiment": null
+  }
+]

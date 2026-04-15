@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "huffman-associates-land-surveyors-belton-mo",
+    "name": "Huffman & Associates Land Surveyors",
+    "city": "belton-mo",
+    "state": "MO",
+    "address": "Not provided",
+    "lat": 38.8108097,
+    "lng": -94.5313502,
+    "phone": "Not provided",
+    "website": "Not provided",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Licensed land surveying firm serving Belton, Raymore, Grandview, Peculiar, Harrisonville, Lee's Summit, Cass County, and Jackson County.",
+    "certifications": [],
+    "services": [
+      "Land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:39",
+    "sentiment": null
+  }
+]

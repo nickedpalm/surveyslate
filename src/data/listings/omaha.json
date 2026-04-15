@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "millman-national-land-services-omaha",
+    "name": "Millman National Land Services",
+    "city": "Omaha",
+    "state": "NE",
+    "address": "",
+    "lat": 41.2587459,
+    "lng": -95.9383758,
+    "phone": "800-520-1010",
+    "website": "https://millmanland.com",
+    "email": "tech@twiz.io",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides professional land surveying across Nebraska including Omaha, Lincoln, Bellevue, Grand Island, and Kearney, specializing in ALTA/NSPS Land Title Surveys for property boundaries, agricultural land, and rural building projects.",
+    "certifications": [],
+    "services": [
+      "ALTA/NSPS Land Title Surveys",
+      "Property Boundary Surveys",
+      "Agricultural Land Surveys",
+      "Rural Land Surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:36",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "friendly",
+        "can-do attitude",
+        "enthusiastic",
+        "peace of mind",
+        "impressed",
+        "available"
+      ],
+      "highlights": [
+        {
+          "text": "They're friendly, with a can-do, will-do attitude. They're always trying to make sure we're a satisfied customer.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They're available and enthusiastic about the work they do. That is peace of mind for us.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We were thoroughly impressed with Millman during the Burger King transaction and will be sure to keep Millman in mind for future transactions.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Millman National Land Services has exceptionally strong sentiment with consistently positive reviews praising their friendly demeanor, can-do attitude, enthusiasm, and reliability, resulting in high customer satisfaction and repeat business."
+    }
+  },
+  {
+    "slug": "rw-engineering-surveying-omaha",
+    "name": "R.W. Engineering & Surveying",
+    "city": "Omaha",
+    "state": "NE",
+    "address": "7525 N 101st Street, Omaha, Nebraska 68122",
+    "lat": 41.297168,
+    "lng": -96.0701589,
+    "phone": "8713338369",
+    "website": "https://rwmidwest.com",
+    "email": "Info@RWmidwest.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers civil engineering, land surveying, aerial mapping, construction contract administration, 3D machine controlled modeling, and 3D laser scanning; established 1980 with additional office in Lincoln, NE.",
+    "certifications": [],
+    "services": [
+      "Land Surveying",
+      "Aerial Mapping",
+      "3D Machine Controlled Modeling",
+      "3D Laser Scanning"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:36",
+    "sentiment": null
+  }
+]

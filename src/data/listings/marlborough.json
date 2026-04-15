@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "realmapinfo-llc-marlborough",
+    "name": "RealMapInfo LLC",
+    "city": "marlborough",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3468589,
+    "lng": -71.5525188,
+    "phone": "",
+    "website": "https://www.realmapinfo.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional residential land surveying with over 50 years experience. Fully licensed, insured, quotes in 24 hours. Serves Middlesex, Norfolk, Essex, Plymouth, Worcester Counties.",
+    "certifications": [],
+    "services": [
+      "Boundary Surveys",
+      "Property Surveys for Fences"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:58",
+    "sentiment": null
+  }
+]

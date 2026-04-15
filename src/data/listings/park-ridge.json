@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "andrew-f-spiewak-land-surveyor-inc-dba-spiewak-consulting-park-ridge",
+    "name": "Andrew F. Spiewak Land Surveyor, Inc. DBA Spiewak Consulting",
+    "city": "park-ridge",
+    "state": "IL",
+    "address": "",
+    "lat": 42.0112329,
+    "lng": -87.8406031,
+    "phone": "(773) 853-2672",
+    "website": "https://landsurveyors.pro",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Over 30 years providing high-quality land surveys for attorneys, builders, developers, homeowners, architects, and engineers in Chicago and surrounding counties including Cook, DuPage, Kane, Lake, McHenry, and Will.",
+    "certifications": [],
+    "services": [
+      "boundary surveys",
+      "topographic surveys",
+      "construction staking",
+      "ALTA surveys"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:11",
+    "sentiment": null
+  }
+]

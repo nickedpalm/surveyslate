@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "perfect-point-land-surveying-brooklyn",
+    "name": "Perfect Point Land Surveying",
+    "city": "brooklyn",
+    "state": "NY",
+    "address": "Brooklyn, New York (offices in Brooklyn & Queens)",
+    "lat": 40.6526006,
+    "lng": -73.9497211,
+    "phone": "(718) 686-8719",
+    "website": "https://ppsurveying.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Land surveying services with nearly a century of combined experience. Serves Brooklyn, Manhattan, Queens, Bronx & Staten Island using state-of-the-art equipment.",
+    "certifications": [],
+    "services": [
+      "Land Surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 19:59:43",
+    "sentiment": null
+  }
+]

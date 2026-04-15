@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "stoner-associates-inc-davie",
+    "name": "Stoner & Associates, Inc.",
+    "city": "davie",
+    "state": "FL",
+    "address": "4341 Southwest 62nd Avenue, Davie, Florida 33314",
+    "lat": 26.0673231,
+    "lng": -80.2302522,
+    "phone": "(954) 585-0997",
+    "website": "https://www.stonersurveyors.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Third-generation firm offering professional land surveying, mapping, and consulting services throughout South Florida for commercial and public sector projects.[2]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:00:00",
+    "sentiment": {
+      "label": "mixed",
+      "score": 0.5,
+      "keywords": [],
+      "highlights": [],
+      "summary": "Insufficient review data available - only website headers provided without actual review content to analyze sentiment."
+    }
+  }
+]

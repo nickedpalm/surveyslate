@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "advanced-consulting-engineering-services-west-point",
+    "name": "Advanced Consulting Engineering Services",
+    "city": "west-point",
+    "state": "NE",
+    "address": "133 W. Washington St., West Point, NE 68788",
+    "lat": 41.843809,
+    "lng": -96.712844,
+    "phone": "402-372-1923",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Engineering and surveying services by licensed surveyor Terry Schulz (#550).",
+    "certifications": [],
+    "services": [
+      "Land Surveying",
+      "Engineering"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:03:36",
+    "sentiment": null
+  }
+]

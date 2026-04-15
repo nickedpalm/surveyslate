@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "cornerstone-professional-land-surveying-pllc-concord",
+    "name": "Cornerstone Professional Land Surveying, PLLC",
+    "city": "concord",
+    "state": "NC",
+    "address": "2329 Concord Highway",
+    "lat": 35.0157313,
+    "lng": -80.5433024,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional land surveying services.",
+    "certifications": [],
+    "services": [
+      "Land surveying"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-15 20:01:04",
+    "sentiment": null
+  }
+]
