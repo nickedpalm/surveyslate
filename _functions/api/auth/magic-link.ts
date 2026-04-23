@@ -84,12 +84,18 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
 </html>`.trim();
 
   try {
+    const authHeader = 'Basic ' + btoa(`${site.listmonkUser}:${site.listmonkPass}`);
+
+    // Ensure subscriber exists in Listmonk (required for tx API — 409 if exists is fine)
+    await fetch(`${site.listmonkUrl}/api/subscribers`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Authorization': authHeader },
+      body: JSON.stringify({ email, name: '', status: 'enabled' }),
+    });
+
     const resp = await fetch(`${site.listmonkUrl}/api/tx`, {
       method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Authorization': 'Basic ' + btoa(`${site.listmonkUser}:${site.listmonkPass}`),
-      },
+      headers: { 'Content-Type': 'application/json', 'Authorization': authHeader },
       body: JSON.stringify({
         subscriber_email: email,
         template_id: site.magicLinkTemplateId,

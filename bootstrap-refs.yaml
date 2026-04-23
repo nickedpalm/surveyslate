@@ -1,4 +1,4 @@
-generated_at: '2026-04-15T23:21:04+00:00'
+generated_at: '2026-04-16T00:29:12+00:00'
 refs:
   cf.d1_db:
     extra:
@@ -87,6 +87,11 @@ refs:
     id: directory_surveyslate
     kind: d1.migrations
     name: surveyslate
+  git.commit_push:
+    extra: {}
+    id: git@github.com:nickedpalm/surveyslate.git
+    kind: git.commit_push
+    name: surveyslate
   github.repo:
     extra: {}
     id: nickedpalm/surveyslate
@@ -132,8 +137,8 @@ refs:
     name: surveyslate
   local.template_sync:
     extra:
-      count: '18'
-      synced: src/components,src/pages,src/layouts,src/utils,src/lib,src/scripts,src/types,src/assets/styles,src/assets/fonts,_functions,migrations,src/config.ts,src/env.d.ts,src/types.d.ts,src/navigation.ts,astro.config.ts,tailwind.config.js,tsconfig.json
+      count: '20'
+      synced: src/components,src/pages,src/layouts,src/utils,src/lib,src/scripts,src/types,src/assets/styles,src/assets/fonts,_functions,migrations,src/config.ts,src/env.d.ts,src/types.d.ts,src/navigation.ts,astro.config.ts,tailwind.config.js,tsconfig.json,public/_headers,public/_redirects
     id: /home/nick/tools/directory-factory/verticals/surveyslate
     kind: local.template_sync
     name: surveyslate

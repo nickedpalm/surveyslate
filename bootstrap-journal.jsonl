@@ -24,3 +24,6 @@
 {"ts": "2026-04-15T23:21:02+00:00", "step": "stripe.sync", "phase": 4, "action": "complete", "result": "created", "duration_ms": 7579, "resource_id": "prod_ULJM25iQUatSuv"}
 {"ts": "2026-04-15T23:21:03+00:00", "step": "stripe.webhook", "phase": 4, "action": "complete", "result": "created", "duration_ms": 596, "resource_id": "we_1TMcjyCIgRyRDQ2PCAho8Ydc"}
 {"ts": "2026-04-15T23:21:04+00:00", "step": "cf.env_vars", "phase": 4, "action": "complete", "result": "created", "duration_ms": 753, "resource_id": "surveyslate"}
+{"ts": "2026-04-15T23:21:06+00:00", "step": "git.commit_push", "phase": 5, "action": "complete", "result": "created", "duration_ms": 1463, "resource_id": "git@github.com:nickedpalm/surveyslate.git"}
+{"ts": "2026-04-15T23:21:06+00:00", "step": "deploy", "phase": 5, "action": "complete", "result": "failed", "duration_ms": 60, "error": "deploy failed: "}
+{"ts": "2026-04-16T00:29:12+00:00", "step": "local.template_sync", "phase": 1, "action": "complete", "result": "created", "duration_ms": 40, "resource_id": "/home/nick/tools/directory-factory/verticals/surveyslate"}

@@ -143,7 +143,7 @@ const faqSchema = {
     {
       '@type': 'Question',
       name: `How many ${smartLower(config.name)} are in ${cityInfo.city}?`,
-      acceptedAnswer: { '@type': 'Answer', text: `There are currently ${listings.length} court reporting providers listed in ${cityInfo.city}, ${cityInfo.state} on ${config.brandName}.${claimed.length + featured.length > 0 ? ` Of those, ${claimed.length + featured.length} have claimed profiles with complete information and reviews.` : ''}` },
+      acceptedAnswer: { '@type': 'Answer', text: `There are currently ${listings.length} ${smartLower(config.name)} listed in ${cityInfo.city}, ${cityInfo.state} on ${config.brandName}.${claimed.length + featured.length > 0 ? ` Of those, ${claimed.length + featured.length} have claimed profiles with complete information and reviews.` : ''}` },
     },
     {
       '@type': 'Question',
@@ -358,7 +358,7 @@ const metadata = {
         {/* Mid-page CTA */}
         <div class="bg-gradient-to-br from-primary-50 to-primary-100 border border-primary-200 rounded-2xl px-8 py-7 mb-9 flex items-center justify-between flex-wrap gap-4 max-md:flex-col max-md:text-center">
           <div>
-            <h3 class="text-[17px] font-bold text-primary-800 mb-1">Are you a ${config.primaryKeyword || smartLower(config.name)} in {cityInfo.city}?</h3>
+            <h3 class="text-[17px] font-bold text-primary-800 mb-1">Are you a {config.primaryKeyword || smartLower(config.name)} in {cityInfo.city}?</h3>
             <p class="text-sm text-primary-500">Claim your free listing or get Sponsored placement to appear above other providers.</p>
           </div>
           <a href="/advertise/" class="btn-action-primary">List Your Business &rarr;</a>
@@ -568,15 +568,15 @@ const metadata = {
     <FAQAccordion faqs={[
       {
         question: `How much does a ${config.primaryKeyword || smartLower(config.name)} cost in ${cityInfo.city}?`,
-        answer: `Court reporting in ${cityInfo.city} typically costs ${config.jobValue || '$250-$1,500+'}, depending on duration, complexity, and turnaround requirements. Expedited transcripts and realtime feeds will cost more.`,
+        answer: `${titleCase(config.primaryKeyword || config.name)} services in ${cityInfo.city} typically run ${config.jobValue || '$250-$1,500+'}, depending on scope, complexity, and turnaround requirements. Expedited work and specialized equipment add cost.`,
       },
       {
-        question: 'What should I look for in a ${config.primaryKeyword || smartLower(config.name)}?',
-        answer: "Look for ${config.primaryCredential} (Registered Professional Reporter) from NCRA — it's the industry gold standard. Also check reviews, ask about realtime capabilities, and confirm they can handle your jurisdiction's requirements.",
+        question: `What should I look for in a ${config.primaryKeyword || smartLower(config.name)}?`,
+        answer: `Look for ${config.primaryCredential} — it's the credential that separates qualified ${smartLower(config.name)} from the rest. Also verify insurance, check reviews, and confirm they can handle your project's specific requirements.`,
       },
       {
         question: `How many ${smartLower(config.name)} are in ${cityInfo.city}?`,
-        answer: `There are currently ${listings.length} court reporting providers listed in ${cityInfo.city}, ${cityInfo.state} on ${config.brandName}.${claimed.length + featured.length > 0 ? ` Of those, ${claimed.length + featured.length} have claimed profiles with complete information and reviews.` : ''}`,
+        answer: `There are currently ${listings.length} ${smartLower(config.name)} listed in ${cityInfo.city}, ${cityInfo.state} on ${config.brandName}.${claimed.length + featured.length > 0 ? ` Of those, ${claimed.length + featured.length} have claimed profiles with complete information and reviews.` : ''}`,
       },
       {
         question: 'What does "Sponsored" mean on a listing?',
